@@ -7,7 +7,7 @@ main:
     url: /organization/
   - title: "Venue"
     url: /vta/
-  - title: "Call for Paper"
+  - title: "Call for Papers"
     url: /cfp/
   - title: "Participation"
     url: /register/
