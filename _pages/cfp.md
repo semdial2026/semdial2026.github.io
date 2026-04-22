@@ -3,23 +3,22 @@
 permalink: /cfp/
 title: "Call for Papers"
 header:
-  overlay_image: /assets/uni-bielefeld.jpg
+  overlay_image: /assets/uni-lboro.jpg
   overlay_filter: 0.7
   image_description: 
-  caption: "Photo credit: [Andy1982, CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Uni_Bielefeld.jpg) via Wikimedia Commons"
+  caption: "Photo credit: [Zorin90, CC BY-SA 4.0](https://en.wikipedia.org/wiki/Loughborough_University#/media/File:Lufbra_HazleriggBuilding.jpg) via Wikipedia"
 toc: true
 layout: single
 ---
 
-
 ## Information
 
-We invite submissions for SemDial 2025 – Bialogue, the 29th Workhsop on the Semantics and Pragmatics of Dialogue at Bielefeld University, Bielefeld Germany. This conference brings together researchers working on the semantics and pragmatics of dialogue across diverse disciplines, including formal semantics, computational linguistics, artificial intelligence, philosophy, psychology, and neuroscience.
+We invite submissions for SemDial 2026 – LuffDial, the 30th Workhsop on the Semantics and Pragmatics of Dialogue at Loughborough University, Loughborough UK. This conference brings together researchers working on the semantics and pragmatics of dialogue across diverse disciplines, including formal semantics, computational linguistics, artificial intelligence, philosophy, psychology, and neuroscience.
 
 
 ## Topics
 
-This year, the conference will center around the theme “Meaningful Interaction”. We particularly encourage work that explores this theme, but submissions are welcome from all areas presenting formal, computational, and empirical approaches to the semantics and pragmatics of dialogue, including but not limited to:
+This year, the conference will center around the theme “Communication Crisis”. We particularly encourage work that explores this theme, but submissions are welcome from all areas presenting formal, computational, and empirical approaches to the semantics and pragmatics of dialogue, including but not limited to:
 
 - Dynamics of agents' information states in dialogue
 - Common ground and mutual belief
@@ -64,7 +63,7 @@ Submissions should meet the following requirements:
 * (optional) unlimited extra space after the conclusion for limitations and optionally ethical considerations, 
 * (optional) unlimited pages for appendices (but please be selective).
 
-**Submission**: Please submit your paper via [Open Review](https://openreview.net/group?id=SemDial.org/2025/Bialogue)
+**Submission**: Please submit your paper via [EasyChair](https://easychair.org/cfp/semdial2026_luffdial)
 
 
 ## Important Dates
