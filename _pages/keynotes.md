@@ -3,7 +3,7 @@ layout: single
 permalink: /keynotes/
 title: "Keynotes"
 header:
-  overlay_image: /assets/uni-bielefeld.jpg
+  overlay_image: /assets/uni-lboro.jpg
   overlay_filter: 0.7 
   image_description: 
   caption: "Photo credit: [Zorin90, CC BY-SA 4.0](https://en.wikipedia.org/wiki/Loughborough_University#/media/File:Lufbra_HazleriggBuilding.jpg) via Wikimedia Commons"
