@@ -2,7 +2,7 @@ main:
   - title: "Programme"
     url: /program/
   - title: "Proceedings"
-    url: https://www.semdial.org/anthology/events/semdial-2025/
+    url: https://www.semdial.org/anthology/events/semdial-2026/
   - title: "Keynotes"
     url: /keynotes/
   - title: "Organization"
@@ -15,7 +15,5 @@ main:
     url: /register/
   - title: "Contact"
     url: /contact/
-  - title: "Impressum"
-    url: https://www.uni-bielefeld.de/impressum/
   
   
