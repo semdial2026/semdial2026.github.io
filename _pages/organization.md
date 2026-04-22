@@ -14,22 +14,15 @@ layout: single
 
 ## Local Organizing Committee
 
-- [Hendrik Buschmeier](https://purl.org/net/hbuschme) (Bielefeld University, Department of Linguistics)
-- [Stefan Kopp](https://www.techfak.uni-bielefeld.de/~skopp/) (Bielefeld University, Faculty of Technology)
-- [Clara Lachenmaier](https://de.linkedin.com/in/clara-lachenmaier-a088472ba) (Bielefeld University, Department of Linguistics)
-- [Lina Mavrina](https://www.linkedin.com/in/lina-mavrina-a9358a292/) (Bielefeld University, Faculty of Technology)
-- [Maryam Mohammadi](https://mohammadi-maryam.github.io/) (Bielefeld University, SFB 1646) (Bielefeld University, Faculty of Technology)
-- [Dagmar Philipp](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=27264073)
-- [Amelie Robrecht](https://de.linkedin.com/in/amelie-sophie-robrecht-5b2593276) (Bielefeld University, Faculty of Technology)
-- [Sina Zarrieß](https://sinazarriess.github.io/) (Bielefeld University, Department of Linguistics)
-
+- [Saul Albert](https://saulalbert.net) (Loughborough University)
+- [Magnus Hamann](https://scholar.google.com/citations?user=odI8SNMAAAAJ) (Loughborough University)
 
 ## Programme Committee Chairs
 
-- [Hendrik Buschmeier](https://purl.org/net/hbuschme) (Bielefeld University)
-- [Nikolai Ilinykh](https://www.gu.se/en/event/nikolai-ilinykh-computational-models-of-language-and-vision-studies-of-neural-models-as-learners-of-multi-modal-knowledge) (University of Gothenburg)
-- [Stefan Kopp](https://www.techfak.uni-bielefeld.de/~skopp/) (Bielefeld University)
-- [Amelie Robrecht](https://de.linkedin.com/in/amelie-sophie-robrecht-5b2593276) (Bielefeld University)
+- [Saul Albert](https://saulalbert.net) (Loughborough University)
+- [Chris Howes](https://www.christinehowes.com/) (University of Gothenburg)
+- [Bill Noble](https://winobes.github.io/about.html) (University of Gothenburg)
+- [Amelie Robrecht-Hilbig](https://linkedin.com/in/amelie-sophie-robrecht-hilbig-5b2593276) (Bielefeld University)
 
 
 ## SemDial Board Chairs
@@ -39,17 +32,17 @@ layout: single
 
 ## Support, Sponsors and Endorsement
 
-SemDial 2025 – Bialogue was supported by
+SemDial 2026 – LuffDial was supported by
 
-* [Bielefeld University](https://www.uni-bielefeld.de/)
+* [Loughborough University](https://lboro.ac.uk/)
 
-SemDial 2025 – Bialogue was sponsored by
+<!--SemDial 2025 – Bialogue was sponsored by
 
 * [Collaborative Research Centre SFB 1646 ‘Linguistics Creativity in Communication’](https://www.uni-bielefeld.de/sfb/sfb1646/)
 * [Collaborative Research Center TRR 318 ‘Constructing Explainability’](https://trr318.uni-paderborn.de/)
-* [SAIL – Sustainable Life-Cycle of Intelligent Socio-Technical Systems](https://www.sail.nrw/)
+* [SAIL – Sustainable Life-Cycle of Intelligent Socio-Technical Systems](https://www.sail.nrw/)-->
 
-SemDial 2025 – Bialogue was endorsed by
+SemDial 2026 – LuffDial was endorsed by
 
 * [ACL SIGdial – Special Interest Group on Discourse and Dialogue](https://www.sigdial.org/)
 * [ACL SIGSEM – Special Interest Group on Computational Semantics](https://www.sigsem.org/) 
