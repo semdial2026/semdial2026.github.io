@@ -1,7 +1,7 @@
 ---
 layout: single
-permalink: /program/
-title: "Programme"
+permalink: /registration/
+title: "Registration"
 header:
   overlay_image: /assets/uni-lboro.jpg
   overlay_filter: 0.7
