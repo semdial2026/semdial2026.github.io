@@ -18,7 +18,7 @@ toc: false
 
 ## [Keynote Person](https://keynote.com)
 
-<img src="../assets/person.jpg" width="150" alt="Photo of Keynote 1" />
+<img src="../assets/person.png" width="150" alt="Photo of Keynote 1" />
 
 **Title:** Keynote Title 1
 
@@ -26,7 +26,7 @@ toc: false
 
 ## [Keynote Person](https://keynote.com)
 
-<img src="../assets/person.jpg" width="150" alt="Photo of Keynote 2" />
+<img src="../assets/person.png" width="150" alt="Photo of Keynote 2" />
 
 **Title:** Keynote Title 2
 
@@ -34,7 +34,7 @@ toc: false
 
 ## [Keynote Person](https://keynote.com)
 
-<img src="../assets/person.jpg" width="150" alt="Photo of Keynote 3" />
+<img src="../assets/person.png" width="150" alt="Photo of Keynote 3" />
 
 **Title:** Keynote Title 3
 
