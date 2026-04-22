@@ -45,7 +45,7 @@ There are recommended hotels for attendees of SemDial 2026 – LuffDial.
   </div>
 </div>
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1vKoDnb46CTiby6mv5ZRR15HYhIIuUyk&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2414.38612302499!2d-1.2423410233041843!3d52.7613092721253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4879e0de35667df3%3A0x64729247309b7a44!2sBurleigh%20Court%20Conference%20Centre%20and%20Hotel!5e0!3m2!1sen!2suk!4v1776894991324!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 ## Conference dinner venue
