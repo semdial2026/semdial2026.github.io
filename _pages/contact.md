@@ -3,14 +3,14 @@
 permalink: /contact/
 title: "Contact"
 header:
-  overlay_image: /assets/uni-bielefeld.jpg
+  overlay_image: /assets/uni-lboro.jpg
   overlay_filter: 0.7 
   image_description: 
-  caption: "Photo credit: [Andy1982, CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Uni_Bielefeld.jpg) via Wikimedia Commons"
+  caption: "Photo credit: [Zorin90, CC BY-SA 4.0](https://en.wikipedia.org/wiki/Loughborough_University#/media/File:Lufbra_HazleriggBuilding.jpg) via Wikipedia"
 toc: false
 layout: single
 ---
 
-For questions and comments regarding *SemDial 2025 – Bialogue* contact one of the [organisers](/organization/), e.g., 
+For questions and comments regarding *SemDial 2026 – LuffDial* contact one of the [organisers](/organization/), e.g., 
 
-* Hendrik Buschmeier <[hbuschme@uni-bielefeld.de](mailto:hbuschme@uni-bielefeld.de)>
+* Saul Albert <[s.b.albert@lboro.ac.uk](mailto:s.b.albert@lboro.ac.uk)>
