@@ -1,56 +1,39 @@
 ---
 layout: single
-permalink: /vta/
-title: "Venue, Travel and Accommodation"
+permalink: /program/
+title: "Programme"
 header:
-  overlay_image: /assets/uni-bielefeld.jpg
+  overlay_image: /assets/uni-lboro.jpg
   overlay_filter: 0.7
   image_description: 
-  caption: "Photo credit: [Andy1982, CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Uni_Bielefeld.jpg) via Wikimedia Commons"
+  caption: "Photo credit: [Zorin90, CC BY-SA 4.0](https://en.wikipedia.org/wiki/Loughborough_University#/media/File:Lufbra_HazleriggBuilding.jpg) via Wikimedia Commons"
 toc: true
 ---
 
 ## Venue
 
-SemDial 2025 – Bialogue took place at Bielefeld University in Bielefeld, Germany, specifially in the CITEC building (address: Inspiration 1, 33619 Bielefeld).
+SemDial 2025 – Bialogue will take place at Loughborough University in Loughborough, UK, specifially in the Brockington building (address: Loughborough University, Margaret Keay Rd, Loughborough LE11 3TU, UK).
 
-<iframe width="600" height="400" src="https://www.openstreetmap.org/export/embed.html?bbox=8.488590717315676%2C52.04437636177715%2C8.49620819091797%2C52.04645492944881&amp;layer=mapnik&amp;marker=52.04541565769711%2C8.492399454116821" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=52.045416&amp;mlon=8.492399#map=19/52.045416/8.492399&amp;layers=N">View larger map</a></small>
+<iframe width="600" height="400" src="https://www.openstreetmap.org/export/embed.html?bbox=-1.2296479940414429%2C52.76452124383279%2C-1.224755644798279%2C52.76684529465157&amp;layer=mapnik&amp;marker=52.765683284747226%2C-1.2272018194198608" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=52.765683&amp;mlon=-1.227202#map=18/52.765683/-1.227202">View Larger Map</a></small>
 
-The venue is wheelchair-accessible. Appropriate seating is available, as well as a lift for presenters who use a wheelchair to get to the front of the auditorium. Wheelchair-accessible all-gender toilets are also available on-site. The university also provides an [app](https://www.uni-bielefeld.de/einrichtungen/zab/unimaps/ 'Website with info and download links') called UniMaps for accessibility-friendly navigation on campus.
+The venue is wheelchair-accessible. Appropriate seating is available, as well as a lift for presenters who use a wheelchair to get to the front of the auditorium. Wheelchair-accessible all-gender toilets are also available on-site. 
 
-The university canteen (“Mensa”) where lunches took place is located in the X-Building on campus and also wheelchair-accessible. There is an option to use a button at the entrance to call an employee of the canteen in case assistance during the visit is desired, for instance, with carrying the tray.
+The university canteen (“EHB”) where lunches take place is located in the Edward Herbert Building on campus and also wheelchair-accessible. 
 
 It is possible to have a mobile inductive listening system during the event.
 
-There is a “quiet room” on-site that can be used for a variety of purposes including breast-feeding. Babies are welcome at SemDial 2025 – Bialogue!
+There is a “quiet room” on-site that can be used for a variety of purposes including breast-feeding. Babies are welcome at SemDial 2026 – LuffDial!
 
 If you have any access requirements you would like us to be aware of, please, let us know in the registration form.
 
 
 ## Travel to the venue
 
-### By Public Transport (from the city center) 
-When using the tram or bus, we recommend getting an “[Entdecker-Karte](https://www.bielefeld.jetzt/entdeckerkarte)” at one of the tram station ticket machines.
-
-**By Tram:** From the city center (Tram stop *Jahnplatz*, *Hauptbahnhof* or *Rathaus* take tram line 4 towards *Lohmannshof* and get off at the stop *Wellensiek* (travel time: around 10 minutes). Trams in Bielefeld are mostly wheelchair-accessible (for wheelchairs under 350 kg). So are the stops mentioned above. Further information on accessibility of public transport in Bielefeld can be found [here](https://www.mobiel.de/fahrplaene/barrierefrei-unterwegs/ 'Website of the public transportation company') (in German).
-
-
-### By Car
-There are numerous free parking spaces available on campus. Parking spaces for people with disabilities are available directly at the venue.
-
-**From the North:** Take the A2 motorway, exit at Bi-Ost, and follow Detmolder Str. towards the city center (6 km, approximately 10 minutes). Follow the route via Kreuzstr., Oberntorwall, Stapenhorststr., and Kurt-Schumacher-Str. (signposted).
-
-**From the South:** Take the A2 motorway. At the Bielefeld junction, switch to the A33 towards Bi-Zentrum. Exit at Bi-Zentrum and continue towards the city center on Ostwestfalendamm (B61). Take the Universität exit and follow the route via Stapenhorststr. and Kurt-Schumacher-Str. (signposted).
-
-
-## Travelling to Bielefeld by plane
-
-Nearest bigger international airports are [Düsseldorf](https://www.dus.com/ 'Düsseldorf airport website') and [Hanover](https://www.hannover-airport.de/en/information-for-passengers-visitors/ 'Hanover airport website'). There are also smaller airports in [Paderborn](https://www.airport-pad.com/en/flights-journey/flight-information/ 'Paderborn airport website'), [Dortmund](https://www.dortmund-airport.com/ 'Dortmund airport website') and [Köln/Bonn](https://www.cologne-bonn-airport.com/en/ 'Köln Bonn airport website').
-
+[There is full travel information by public transport or car on the Loughborough Website]([url](https://www.lboro.ac.uk/international/travel-information/))
 
 ## Accommodations
 
-There are hotel contigents for attendees of SemDial 2025 – Bialogue. 
+There are recommended hotels for attendees of SemDial 2026 – LuffDial. 
 
 <div class="row">
   <div class="col">
@@ -131,17 +114,15 @@ There are hotel contigents for attendees of SemDial 2025 – Bialogue.
 
 ## Conference dinner venue
 
-The conference dinner took place at [Numa](https://numa.de/ 'Link to website of restaurant NUMA'). The address is Obernstraße 26, it is located in the city centre. From the conference venue, it can be accessed by taking the tram line number 4 in the direction of _Stieghorst_ and exiting at the stop _Rathaus_.
+The conference dinner will take place at [Place 3](https://lboro.ac.uk 'Link to website of place 3'). The address is...
 
-<iframe width="600" height="400" src="https://www.openstreetmap.org/export/embed.html?bbox=8.525814414024355%2C52.01911569175116%2C8.53343188762665%2C52.0211954340539&amp;layer=mapnik&amp;marker=52.02015530002795%2C8.529621899999938" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=52.020155&amp;mlon=8.529622#map=19/52.020155/8.529622&amp;layers=N">View larger map</a></small>
+<!--<iframe width="600" height="400" src="https://www.openstreetmap.org/export/embed.html?bbox=8.525814414024355%2C52.01911569175116%2C8.53343188762665%2C52.0211954340539&amp;layer=mapnik&amp;marker=52.02015530002795%2C8.529621899999938" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=52.020155&amp;mlon=8.529622#map=19/52.020155/8.529622&amp;layers=N">View larger map</a></small>-->
 
 
-## What to do in Bielefeld
+## What to do in Loughborough
 
-During your free time, Bielefeld offers a variety of activities to explore. You can visit [Sparrenburg Castle](https://www.bielefeld.jetzt/sparrenburg), a landmark of the city with panoramic views and historical significance. The [Old Town](https://www.bielefeld.jetzt/node/23313) features a mix of historic architecture, small shops, and cafés.
+Good luck.
 
-For those interested in art, [Kunsthalle Bielefeld](https://kunsthalle-bielefeld.de) hosts exhibitions of modern and contemporary art. If you prefer nature, the nearby [Teutoburg Forest provides trails for walking or hiking](https://www.bielefeld.jetzt/wandern#/de/bielefeld/default/finder/Tour/all:all%20-category:%22Fernradweg%22/all:all%20-category:%22regionale%20Radtour%22/all:all%20-category:%22Jogging-_-Nordic-Walking%22/category:%22regionaler%20Wanderweg%22OR%22Fernwanderweg%22OR%22Naturparktrails%22/city:%20bielefeld/climb:0,2000/difficulty:1,5/distance:0,100/duration:0,10/family:0/reststop:0/roundtour:0/sort:relevance/view:gallery).
+In the evenings, Loughborough has several restaurants, vape shops, and nail bars.
 
-In the evenings, Bielefeld has several restaurants, theaters, and cultural venues to explore at your own pace.
-
-For more tips try [Bielefeld's personalizable travel guide](https://www.plazy.travel/destination-info/16851/was-du-ueber-bielefeld-wissen-solltest)
+For more tips try the [Visit Leicester website](https://visitleicester.info/point-of-interest/loughborough-a-market-town/).
