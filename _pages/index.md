@@ -14,7 +14,7 @@ header:
 
 Semdial 2026 – LuffDial, the 30th [Workshop on the Semantics and Pragmatics of Dialogue](https://www.semdial.org) will take place in Loughborough, UK from September 2–4, 2026 at [Loughborough University](https://www.lboro.ac.uk/).
 
-## LuffDial – Crisis Communication
+## LuffDial – Theme McThemeFace
 
 Loughborough University's Discourse and Rhetoric Group was founded in 1987 with a specific focus on discourse analysis, conversation analysis, and discursive psychology. It has hosted loads of ding-dongs between language researchers of all kinds.
 
