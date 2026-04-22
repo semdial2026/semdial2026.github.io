@@ -12,7 +12,7 @@ toc: true
 
 ## Venue
 
-SemDial 2025 – Bialogue will take place at Loughborough University in Loughborough, UK, specifially in the Brockington building (address: Loughborough University, Margaret Keay Rd, Loughborough LE11 3TU, UK).
+SemDial 2026 – LuffDial will take place at Loughborough University in Loughborough, UK, specifially in the Brockington building (address: Loughborough University, Margaret Keay Rd, Loughborough LE11 3TU, UK).
 
 <iframe width="600" height="400" src="https://www.openstreetmap.org/export/embed.html?bbox=-1.2296479940414429%2C52.76452124383279%2C-1.224755644798279%2C52.76684529465157&amp;layer=mapnik&amp;marker=52.765683284747226%2C-1.2272018194198608" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=52.765683&amp;mlon=-1.227202#map=18/52.765683/-1.227202">View Larger Map</a></small>
 
