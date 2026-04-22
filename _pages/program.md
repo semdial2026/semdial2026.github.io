@@ -3,10 +3,10 @@ layout: single
 permalink: /program/
 title: "Programme"
 header:
-  overlay_image: /assets/uni-bielefeld.jpg
+  overlay_image: /assets/uni-lboro.jpg
   overlay_filter: 0.7
   image_description: 
-  caption: "Photo credit: [Andy1982, CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Uni_Bielefeld.jpg) via Wikimedia Commons"
+  caption: "Photo credit: [Zorin90, CC BY-SA 4.0](https://en.wikipedia.org/wiki/Loughborough_University#/media/File:Lufbra_HazleriggBuilding.jpg) via Wikimedia Commons"
 toc: true
 ---
 
@@ -15,10 +15,10 @@ toc: true
 
 | Time        | Topic |
 | ----------- | ----- |
-| **Wednesday, September 3, 2025** | |
+| **Wednesday, September 2, 2026** | |
 | 08:00–09:00 | Registration |
 | 09:00–09:15 | Welcome |
-| 09:15–10:30 | Keynote: [Arabella Sinclair](../keynotes/#arabella-sinclair) |
+| 09:15–10:30 | Keynote: [LKeynote 1](../keynotes/#keynote-1) |
 | 10:30–10:50 | Coffee Break |
 | 10:50–12:20 | [Session 1: Studies – Natural Dialogue](#session-1-studies--natural-dialogue) |
 | 12:20–13:40 | Lunch Break: [Mensa](https://www.studierendenwerk-bielefeld.de/essen-trinken/speiseplan/bielefeld/mensa-x/) |
@@ -26,55 +26,56 @@ toc: true
 | 15:40–16:00 | Coffee Break |
 | 16:00–17:30 | [Poster Session 1](#poster-session-1-wednesday-1600) |
 | 17:30–18:30 | Welcome Reception |
-| 19:30–      | Evening Suggestions: [Brauhaus Joh. Albrecht](https://www.brauhaus-joh-albrecht.de/bielefeld/) or [Weinmarkt](https://www.bielefeld.jetzt/weinmarkt) |
-| **Thursday, September 4, 2025** | |
+| 19:30–      | Evening Suggestions: [Place 1](https://lboro.ac.uk) or [Place 2](https://lboro.ac.uk) |
+| **Thursday, September 3, 2026** | |
 | 08:30–09:00 | Registration |
 | 09:00–10:30 | [Session 3: Language Models and Dialogue Systems](#session-3-language-models-and-dialogue-systems) |
 | 10:30–11:00 | Coffee Break |
 | 11:00–12:30 | [Session 4: Turn-Taking](#session-4-turn-taking) |
-| 12:30–14:00 | Lunch Break: [Mensa](https://www.studierendenwerk-bielefeld.de/essen-trinken/speiseplan/bielefeld/mensa-x/) |
+| 12:30–14:00 | Lunch Break: [EHB](https://maps.lboro.ac.uk/?l=edward-herbert-building-ehb) |
 | 13:30–14:00 | SemDial Business Meeting |
 | 14:00–15:30 | [Poster Session 2](#poster-session-2-thursday-1400) |
 | 15:30–16:00 | Coffee Break |
-| 16:00–17:15 | Keynote: [Robert D. Hawkins](../keynotes/#robert-hawkins) |
-| 18:30–      | Conference Dinner: [NUMA](https://numa.de/) |
+| 16:00–17:15 | Keynote: [Person 2](../keynotes/#person-2) |
+| 18:30–      | Conference Dinner: [Place 2](https://lboro.ac.uk/) |
 | **Friday, September 5, 2025** | |
 | 08:30–09:00 | Registration |
 | 09:00–11:00 | [Session 5: Studies – Mediated Dialogue](#session-5-studies--mediated-dialogue) | 
 | 11:00–11:30 | Coffee Break| 
-| 11:30–12:45 | Keynote: [David Schlangen](../keynotes/#david-schlangen) | 
+| 11:30–12:45 | Keynote: [Person 3](../keynotes/#person-3) | 
 | 12:45–13:00 | Closing |
 
-
+<!--
 ## Programme Booklet and Proceedings
 
-* [SemDial 2025 – Bialogue Conference Programme Booklet](../assets/semdial2025-conference-programme-mobile.pdf)
-* [SemDial 2025 – Bialogue. Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue](https://purl.org/semdial/2025/proceedings)
-* Access to individual papers in the [SemDial Anthology](https://www.semdial.org/anthology/events/semdial-2025/)
-
+* [SemDial 2026 – LuffDial Conference Programme Booklet](../assets/semdial2026-conference-programme-mobile.pdf)
+* [SemDial 2026 – LuffDial. Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue](https://purl.org/semdial/2026/proceedings)
+* Access to individual papers in the [SemDial Anthology](https://www.semdial.org/anthology/events/semdial-2026/)
+-->
 
 ## Keynotes
 
-* Arabella Sinclair: 
-  [The Many Reasons for Repetition in Dialogue](https://www.semdial.org/anthology/papers/Z/Z25/Z25-2201/)
-* Robert D. Hawkins: 
-  [Foraging for Common Ground](https://www.semdial.org/anthology/papers/Z/Z25/Z25-2202/)
-* David Schlangen: 
-  [Meaningful Interaction with Unreal Speakers](https://www.semdial.org/anthology/papers/Z/Z25/Z25-2203/)
+* Person 1: 
+  [Title](https://www.semdial.org/)
+* Person 2: 
+  [Title 2](https://www.semdial.org/)
+* Person 3: 
+  [Title 3](https://www.semdial.org/anthology/papers/Z/Z25/Z25-2203/)
+  <!--  [Title 3](https://www.semdial.org/anthology/papers/Z/Z25/Z25-2203/)-->
 
 
 ## Session 1: Studies – Natural Dialogue
-
+<!--
 * [Grammatical person as a clue to interpreting French how-questions](https://www.semdial.org/anthology/papers/Z/Z25/Z25-3304/) 
   (Jan Fliessbach, Lucia M. Tovena and Damien Fleury)
 * [Does it take two to do an articulatory tango? Investigating the production of novel phonetic forms in varying communicative settings](https://www.semdial.org/anthology/papers/Z/Z25/Z25-3305/) 
   (Leonie Schade, Daniel Duran, Sina Zarrieß, Joana Cholin and Petra Wagner)
 * [‘No no no no no no no’: Multiple repetition in dialogue](https://www.semdial.org/anthology/papers/Z/Z25/Z25-3306/) 
   (Zulipiye Yusupujiang, Paola Herreno-Castaneda, Mathilde Dargnat and Jonathan Ginzburg)
-
+-->
 
 ## Session 2: Grounding and Repair
-
+<!--
 * [Identifying repair opportunities in child-caregiver interactions](https://www.semdial.org/anthology/papers/Z/Z25/Z25-3307/) 
   (Abhishek Agrawal, Benoit Favre and Abdellah Fourtassi)
 * [Do young adolescents draw on common ground like adults?](https://www.semdial.org/anthology/papers/Z/Z25/Z25-3308/) 
@@ -83,30 +84,30 @@ toc: true
   (Alafate Abulimiti, Vladislav Maraev)
 * [Misunderstanding the concrete, disagreeing about the abstract: A closer look at word meaning negotiation triggers](https://www.semdial.org/anthology/papers/Z/Z25/Z25-3310/) 
   (Bill Noble, Staffan Larsson and Jenny Myrendal)
-
+-->
 
 ## Session 3: Language Models and Dialogue Systems 
-
+<!--
 * [Benchmarking LLMs for mimicking child-caregiver language in interaction](https://www.semdial.org/anthology/papers/Z/Z25/Z25-3311/) 
   (Jing Liu and Abdellah Fourtassi)
 * [Conv-BDI: An extension of the BDI framework for conversational agents](https://www.semdial.org/anthology/papers/Z/Z25/Z25-3312/) 
   (Nicholas Thomas Walker, Nicolas Wagner, Laetitia Hilgendorf and Stefan Ultes)
 * [Automated administration of questionnaires during casual conversation using question-guiding dialogue system](https://www.semdial.org/anthology/papers/Z/Z25/Z25-3313/) 
   (Yuki Zenimoto, Mariko Yoshida, Ryo Hori, Mayu Urata, Aiko Inoue, Takahiro Hayashi and Ryuichiro Higashinaka)
-
+-->
 
 ## Session 4: Turn-Taking 
-
+<!--
 * [Why so cold and distant? Effects of inter-turn gap durations on observers' attributions of interpersonal stance](https://www.semdial.org/anthology/papers/Z/Z25/Z25-3314/) 
   (Stefan Blohm and Mathias Barthel)
 * [Alexa, you are too slow! Invariant turn-transition times and conversational flow in natural human–voice agent interaction](https://www.semdial.org/anthology/papers/Z/Z25/Z25-3315/) 
   (Mathias Barthel)
 * [Head and hand movements during turn transitions: Data-based multimodal analysis using the Frankfurt VR gesture–speech alignment corpus (FraGA)](https://www.semdial.org/anthology/papers/Z/Z25/Z25-3316/) 
   (Andy Lücking, Felix Voll, Daniel Rott, Alexander Henlein and Alexander Mehler)
-
+-->
 
 ## Session 5: Studies – Mediated Dialogue
-
+<!--
 * [Information exchange vs. opinion discussion as distinct communicative contexts in online conversations: A corpus-based study of speech acts and rhetorical relations dynamics in dialogue](https://www.semdial.org/anthology/papers/Z/Z25/Z25-3317/) 
   (Gonzalo Freijedo Aduna and Alda Mari)
 * [Shaping virtual interactions: F-formations in social VR](https://www.semdial.org/anthology/papers/Z/Z25/Z25-3318/) 
@@ -115,10 +116,10 @@ toc: true
   (Naphat Jittavisutthikul, Patrick Healey, Sarah Bourdin and Philip McNamee)
 * [Constructing a multi-party conversational corpus focusing on interlocutor relationships](https://www.semdial.org/anthology/papers/Z/Z25/Z25-3320/) 
   (Taro Tsuda, Sanae Yamashita, Koji Inoue, Tatsuya Kawahara and Ryuichiro Higashinaka)
-
+-->
 
 ## Poster Session 1 (Wednesday 16:00)
-
+<!--
 * [Pragmatic reasoning for irony detection with large language models in English and Norwegian](https://www.semdial.org/anthology/papers/Z/Z25/Z25-4421/) 
   (Margareta Berg, Ildikó Pilán, Ingrid Lossius Falkum and Pierre Lison)
 * [“It's simply a different way of communicating” – Attitudes on nonverbal communication of autistic adults in the Netherlands](https://www.semdial.org/anthology/papers/Z/Z25/Z25-4422/) 
@@ -143,10 +144,10 @@ toc: true
   (Farhat Jabeen and Shravani Patil)
 * [Integrating LLMs into the DIARC cognitive architecture to resolve past temporal references](https://www.semdial.org/anthology/papers/Z/Z25/Z25-4430/) 
   (Valerio Farriciello and Frank Förster)
-
+-->
 
 ## Poster Session 2 (Thursday 14:00)
-
+<!--
 * [Across the board: Human-human game learning dialogues](https://www.semdial.org/anthology/papers/Z/Z25/Z25-4431/) 
   (Mattias Appelgren, Erik Lagerstedt, Christine Howes and Asad B. Sayeed)
 * [The dual nature as a local context to explore verbal behaviour in game explanations](https://www.semdial.org/anthology/papers/Z/Z25/Z25-4432/) 
@@ -165,3 +166,4 @@ toc: true
   (Marika Sarzotti, Giovanni Duca, Chris Madge, Raffaella Bernardi and Massimo Poesio)
 * [Learning to refer: How scene complexity affects emergent communication in neural agents](https://www.semdial.org/anthology/papers/Z/Z25/Z25-4438/) 
   (Dominik Künkele and Simon Dobnik)
+-->
