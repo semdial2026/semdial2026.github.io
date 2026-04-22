@@ -1,1 +1,8 @@
+.page__hero--overlay {
+  height: 250px; /* adjust to taste */
+}
 
+.page__hero-image {
+  max-height: 250px;
+  object-fit: cover;
+}
