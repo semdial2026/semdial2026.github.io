@@ -63,7 +63,7 @@ Submissions should meet the following requirements:
 * (optional) unlimited extra space after the conclusion for limitations and optionally ethical considerations, 
 * (optional) unlimited pages for appendices (but please be selective).
 
-**Submission**: Please submit your paper via [EasyChair](https://easychair.org/cfp/semdial2026_luffdial)
+**Submission**: Please submit your paper via [EasyChair](https://easychair.org/conferences/?conf=semdial2026)
 
 
 ## Important Dates
