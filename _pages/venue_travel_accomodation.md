@@ -57,8 +57,10 @@ The conference dinner venue is TBC. <!-- [Place 3](https://lboro.ac.uk 'Link to 
 
 ## What to do in Loughborough
 
-Loughborough is a small market town with beautiful surrounding countryside. You can visit cafés, loads of traditional British pubs and a variety of restaurants, all within a 15-minute walk of the University Campus.
+Loughborough is a small market town in the British East Midlands surrounded by the beautiful Leicestershire countryside. You can visit loads of cafés, pubs, and a wide variety of restaurants, all within a 15-minute walk of the University Campus.
 
-For a walk in the beautiful Leicestershire countryside, it's a 40-minute hike to [The Outwoods](https://www.charnwood.gov.uk/pages/outwoodsinformation), [Beacon Hill](https://leicscountryparks.org.uk/parks/beacon-hill/), or if you're feeling a little more adventurous, take the bus (or drive) to [Bradgate Park](https://www.bradgatepark.org/).
+Bring your hiking boots: it's a 40-minute walk to [The Outwoods](https://www.charnwood.gov.uk/pages/outwoodsinformation) and [Beacon Hill](https://leicscountryparks.org.uk/parks/beacon-hill/), or if you're feeling a little more adventurous, take the bus (or drive) to [Bradgate Park](https://www.bradgatepark.org/) for some stunning views and fascinating local history. 
+
+If history and cultural heritage is your thing, Loughborough is also home to the UK's only remaining [bell foundry](https://belltrust.co.uk/), and the UK's largest heritage railway: The [Great Central Railway](https://www.gcrailway.co.uk/), which you can ride (on steam or diesel) all the way from Loughborough Central to Leicester North.
 
 For more tips try the [visit Leicestershire website](https://visitleicester.info/point-of-interest/loughborough-a-market-town/).
