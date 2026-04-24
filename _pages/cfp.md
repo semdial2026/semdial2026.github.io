@@ -49,7 +49,7 @@ Submissions should meet the following requirements:
 
 <!--<span style="color:red">Attention: updated instruction</span>-->
 
-* At most 8 pages of content,
+* 4-8 pages of content,
 * (optional) unlimited extra space after the conclusion for limitations and optionally ethical considerations, 
 * unlimited pages of references,
 * (optional) unlimited pages for appendices (but please be selective).
@@ -58,7 +58,7 @@ Submissions should meet the following requirements:
 
 <!--<span style="color:red">Attention: updated instruction</span>-->
 
-* At most 2 pages of content (up to 1 additional page allowed for references). Submission to this track can be non-archival on request.
+* Up to 2 pages of content (up to 1 additional page allowed for references). Submission to this track can be non-archival on request.
 * Accepted short papers will be presented as posters at the conference.
 * (optional) unlimited extra space after the conclusion for limitations and optionally ethical considerations, 
 * (optional) unlimited pages for appendices (but please be selective).
