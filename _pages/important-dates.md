@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/uni-lboro.jpg
   overlay_filter: 0.7
   image_description: 
-  caption: "Photo credit: [Andy1982, CC BY-SA 3.0](https://en.wikipedia.org/wiki/Loughborough_University#/media/File:Lufbra_HazleriggBuilding.jpg) via Wikipedia"
+  caption: "Photo credit: [Zorin90, CC BY-SA 4.0](https://en.wikipedia.org/wiki/Loughborough_University#/media/File:Lufbra_HazleriggBuilding.jpg) via Wikipedia"
 toc: true
 layout: single
 ---
