@@ -15,11 +15,12 @@ layout: single
 ## Local Organizing Committee
 
 - [Saul Albert](https://saulalbert.net) (Loughborough University)
-- [Magnus Hamann](https://scholar.google.com/citations?user=odI8SNMAAAAJ) (Loughborough University)
+- [Magnus Hamann](https://www.phc.ox.ac.uk/team/magnus-hamann) (University of Oxford)
 
 ## Programme Committee Chairs
 
 - [Saul Albert](https://saulalbert.net) (Loughborough University)
+- [Magnus Hamann](https://www.phc.ox.ac.uk/team/magnus-hamann) (University of Oxford)
 - [Chris Howes](https://www.christinehowes.com/) (University of Gothenburg)
 - [Bill Noble](https://winobes.github.io/about.html) (University of Gothenburg)
 - [Amelie Robrecht-Hilbig](https://linkedin.com/in/amelie-sophie-robrecht-hilbig-5b2593276) (Bielefeld University)
