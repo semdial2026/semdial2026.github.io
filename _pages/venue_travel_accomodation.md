@@ -12,7 +12,7 @@ toc: true
 
 ## Venue
 
-SemDial 2026 – LuffDial will take place at Loughborough University in Loughborough, UK, specifially in the Brockington building (address: Loughborough University, Margaret Keay Rd, Loughborough LE11 3TU, UK).
+SemDial 2026 – LuffDial will take place at Loughborough University in Loughborough, UK, specifially in the Brockington building, room [U.005](https://www.lboro.ac.uk/services/audio-visual-timetabling/teaching-rooms/lboro/u/u005/) (address: Brockington Buliding, Loughborough University, Margaret Keay Rd, Loughborough LE11 3TU, UK).
 
 <iframe width="600" height="400" src="https://www.openstreetmap.org/export/embed.html?bbox=-1.2296479940414429%2C52.76452124383279%2C-1.224755644798279%2C52.76684529465157&amp;layer=mapnik&amp;marker=52.765683284747226%2C-1.2272018194198608" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=52.765683&amp;mlon=-1.227202#map=18/52.765683/-1.227202">View Larger Map</a></small>
 
@@ -33,7 +33,7 @@ There is full travel information by public transport or car [on the Loughborough
 
 ## Accommodations
 
-There are recommended hotels for attendees of SemDial 2026 – LuffDial. 
+The recommended hotels for attendees of SemDial 2026 – LuffDial is Burleigh Court - which is the closest on-campus accommodation to the conference venue.
 
 <div class="row">
   <div class="col">
@@ -45,7 +45,12 @@ There are recommended hotels for attendees of SemDial 2026 – LuffDial.
   </div>
 </div>
 
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2414.38612302499!2d-1.2423410233041843!3d52.7613092721253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4879e0de35667df3%3A0x64729247309b7a44!2sBurleigh%20Court%20Conference%20Centre%20and%20Hotel!5e0!3m2!1sen!2suk!4v1776894991324!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+There are several [other on-campus accommodation options available](https://www.lboro.ac.uk/services/accommodation/short-stay-accommodation/hotels/).
+
+[Other accommodation is also available](https://www.tripadvisor.co.uk/HotelsNear-g190776-d7888550-Loughborough_University-Loughborough_Leicestershire_England.html) nearby.
 
 
 ## Conference dinner venue
