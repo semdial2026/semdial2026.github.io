@@ -21,7 +21,7 @@ toc: true
 | 09:15–10:30 | Keynote: [LKeynote 1](../keynotes/#keynote-1) |
 | 10:30–10:50 | Coffee Break |
 | 10:50–12:20 | [Session 1: Studies – Natural Dialogue](#session-1-studies--natural-dialogue) |
-| 12:20–13:40 | Lunch Break: [Mensa](https://www.studierendenwerk-bielefeld.de/essen-trinken/speiseplan/bielefeld/mensa-x/) |
+| 12:20–13:40 | Lunch Break: [EHB](https://www.lboro.ac.uk) |
 | 13:40–15:40 | [Session 2: Grounding and Repair](#session-2-grounding-and-repair) |
 | 15:40–16:00 | Coffee Break |
 | 16:00–17:30 | [Poster Session 1](#poster-session-1-wednesday-1600) |
