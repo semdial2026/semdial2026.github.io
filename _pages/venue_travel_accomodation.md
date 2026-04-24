@@ -33,7 +33,7 @@ There is full travel information by public transport or car [on the Loughborough
 
 ## Accommodations
 
-The recommended hotels for attendees of SemDial 2026 – LuffDial is Burleigh Court - which is the closest on-campus accommodation to the conference venue.
+We recommend Burleigh Court, which is on campus and quite comfortable - with a decent bar/restaurant.
 
 <div class="row">
   <div class="col">
