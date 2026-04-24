@@ -12,7 +12,7 @@ header:
 
 ## Welcome
 
-Semdial 2026 – LuffDial, the 30th [Workshop on the Semantics and Pragmatics of Dialogue](https://www.semdial.org) will take place in Loughborough, UK from September 2–4, 2026 at [Loughborough University](https://www.lboro.ac.uk/).
+Semdial 2026 – LuffDial, the 30th [Workshop on the Semantics and Pragmatics of Dialogue](https://www.semdial.org) will take place in Loughborough, UK from September 3–4, 2026 at [Loughborough University](https://www.lboro.ac.uk/).
 
 ## LuffDial 
 
