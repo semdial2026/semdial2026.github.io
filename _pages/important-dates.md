@@ -23,6 +23,6 @@ layout: single
 | Notification                | July 16, 2026    |
 | Short Paper (Poster) Deadline | July 17, 2026 |
 | Notification (Short Papers) | July 24, 2026  |
-| Camera Ready (Short Papers) | August 06, 2026 |
+| Camera Ready                | August 06, 2026 |
 | Registration Deadline       | August 21, 2026 |
 | **SemDial 2026 – LuffDial** | **September 3–4, 2026** |
