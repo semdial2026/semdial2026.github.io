@@ -13,7 +13,7 @@ layout: single
 
 ## Information
 
-We invite submissions for SemDial 2026 – LuffDial, the 30th Workhsop on the Semantics and Pragmatics of Dialogue at Loughborough University, Loughborough UK. This conference brings together researchers working on the semantics and pragmatics of dialogue across diverse disciplines, including formal semantics, computational linguistics, artificial intelligence, philosophy, psychology, and neuroscience.
+We invite submissions for SemDial 2026 – LuffDial, the 30th Workshop on the Semantics and Pragmatics of Dialogue at Loughborough University, Loughborough UK. This conference brings together researchers working on the semantics and pragmatics of dialogue across diverse disciplines, including formal semantics, computational linguistics, artificial intelligence, philosophy, psychology, and neuroscience.
 
 
 ## Topics
