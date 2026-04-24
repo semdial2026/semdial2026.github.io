@@ -68,6 +68,6 @@ Bring your hiking boots: it's a 40-minute walk to [The Outwoods](https://www.cha
 
 If history and cultural heritage is your thing, Loughborough is also home to the UK's only remaining [bell foundry](https://belltrust.co.uk/), and the UK's largest heritage railway: The [Great Central Railway](https://www.gcrailway.co.uk/), which you can ride (on steam or diesel) all the way from Loughborough Central to Leicester North.
 
-If you fancy more urban pursuits, Loughborough is only a 15-minute train ride from Nottingham, Leicester, and not much further from Coventry and Birmingham. In fact, if you are going to use Semdial 2026 as an opportunity to visit England, you can basically get to most places within a few hours by train.
+If you fancy more urban pursuits, Loughborough is only a 15-minute train ride from Nottingham, Leicester, and not much further from Birmingham, and London is only 1 hour and 20 minutes away by train.
 
 For more tips try the [visit Leicestershire website](https://visitleicester.info/point-of-interest/loughborough-a-market-town/).
