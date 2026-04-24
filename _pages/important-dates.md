@@ -18,12 +18,11 @@ layout: single
 
 |                             |                     | 
 | --------------------------- | ------------------- |
-| Long Paper Deadline         | June 1, 2026    |
-| Reviews due to              | June 29, 2026   |
-| Notification                | July 3, 2026    |
-| Camera Ready (Long Papers)  | July 17, 2026   |
+| Long Paper Deadline         | June 17, 2026    |
+| Reviews completed           | July 9, 2026   |
+| Notification                | July 16, 2026    |
 | Short Paper (Poster) Deadline | July 17, 2026 |
 | Notification (Short Papers) | July 24, 2026  |
-| Camera Ready (Short Papers) | August 08, 2026 |
+| Camera Ready (Short Papers) | August 06, 2026 |
 | Registration Deadline       | August 21, 2026 |
-| **SemDial 2026 – LuffDial** | **September 2–4, 2026** |
+| **SemDial 2026 – LuffDial** | **September 3–4, 2026** |
