@@ -47,7 +47,7 @@ Submissions should meet the following requirements:
 
 **Long papers**: 
 
-<span style="color:red">Attention: updated instruction</span>
+<!--<span style="color:red">Attention: updated instruction</span>-->
 
 * At most 8 pages of content,
 * (optional) unlimited extra space after the conclusion for limitations and optionally ethical considerations, 
@@ -56,7 +56,7 @@ Submissions should meet the following requirements:
 
 **Short papers (Posters)**: 
 
-<span style="color:red">Attention: updated instruction</span>
+<!--<span style="color:red">Attention: updated instruction</span>-->
 
 * At most 2 pages of content (up to 1 additional page allowed for references). Submission to this track can be non-archival on request.
 * Accepted short papers will be presented as posters at the conference.
