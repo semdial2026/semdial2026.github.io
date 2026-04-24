@@ -23,7 +23,7 @@ layout: single
 - [Magnus Hamann](https://www.phc.ox.ac.uk/team/magnus-hamann) (University of Oxford)
 - [Chris Howes](https://www.christinehowes.com/) (University of Gothenburg)
 - [Bill Noble](https://winobes.github.io/about.html) (University of Gothenburg)
-- [Amelie Robrecht-Hilbig](https://linkedin.com/in/amelie-sophie-robrecht-hilbig-5b2593276) (Bielefeld University)
+- [Amelie Robrecht-Hilbig](https://linkedin.com/in/amelie-sophie-robrecht-hilbig-5b2593276) (University of Gothenburg)
 
 
 ## SemDial Board Chairs
