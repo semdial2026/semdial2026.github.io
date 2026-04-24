@@ -16,7 +16,7 @@ Semdial 2026 – LuffDial, the 30th [Workshop on the Semantics and Pragmatics of
 
 ## LuffDial 
 
-Loughborough University is a global hub for interactional research on dialogue, pragmatics, and language-in-use. LuffDial will be hosted by the [Discourse And Rhetoric Group](https://darg.lboro.ac.uk/) (DARG), founded in 1987 to promote training and interdisciplinary research in discourse analysis, applied conversation analysis, and discursive psychology. While there is no theme for LuffDial, work that engages with conversation - and with the interactional side of pragmatics and dialogue more broadly - is very welcome.
+Loughborough University is a hub for interactional research on dialogue, pragmatics, and language-in-use. LuffDial will be hosted by the [Discourse And Rhetoric Group](https://darg.lboro.ac.uk/) (DARG), founded in 1987 to promote interdisciplinary research in discourse analysis, applied conversation analysis, and discursive psychology. While there is no theme for LuffDial, work that engages with conversation and the interactional side of pragmatics and dialogue will be especially enthusiastically received by locals.
 
 
 <!--**Programme Booklet:** Get the [SemDial 2026 – LuffDial Conference Programme Booklet](assets/semdial2026-conference-programme-mobile.pdf) (pdf)!
