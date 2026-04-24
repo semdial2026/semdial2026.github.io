@@ -1,6 +1,4 @@
 main:
-  - title: "Programme"
-    url: /program/
   - title: "Organization"
     url: /organization/
   - title: "Venue"
