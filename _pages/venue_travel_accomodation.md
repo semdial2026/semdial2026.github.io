@@ -29,7 +29,7 @@ If you have any access requirements you would like us to be aware of, please, le
 
 ## Travel to the venue
 
-[There is full travel information by public transport or car on the Loughborough Website]([url](https://www.lboro.ac.uk/international/travel-information/))
+There is full travel information by public transport or car [on the Loughborough Website]([url](https://www.lboro.ac.uk/international/travel-information/))
 
 ## Accommodations
 
