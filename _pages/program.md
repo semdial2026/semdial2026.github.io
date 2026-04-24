@@ -18,7 +18,7 @@ toc: true
 | **Wednesday, September 2, 2026** | |
 | 08:00–09:00 | Registration |
 | 09:00–09:15 | Welcome |
-| 09:15–10:30 | Keynote: [LKeynote 1](../keynotes/#keynote-1) |
+| 09:15–10:30 | Keynote: [Keynote 1](../keynotes/#keynote-1) |
 | 10:30–10:50 | Coffee Break |
 | 10:50–12:20 | [Session 1: Studies – Natural Dialogue](#session-1-studies--natural-dialogue) |
 | 12:20–13:40 | Lunch Break: [EHB](https://www.lboro.ac.uk) |
