@@ -42,7 +42,7 @@ This year, the conference will center around the theme “Themey McThemeface”.
 Submissions should meet the following requirements: 
   - Papers should be original, unpublished, and not under review elsewhere.
   - Papers that have been or will be submitted to other meetings or publications must provide this information, using a footnote on the title page of the submissions.
-  - Papers should follow the ACL 2025 formatting guidelines and use the [ACL submission templates](https://github.com/acl-org/acl-style-files/).
+  - Papers should follow the ACL formatting guidelines and use the [ACL submission templates](https://github.com/acl-org/acl-style-files/).
   - Submissions should be anonymized PDF-files.
 
 **Long papers**: 
