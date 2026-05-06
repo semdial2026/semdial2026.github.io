@@ -11,34 +11,25 @@ toc: false
 ---
 
 
-* **Keynote 1**: [Keynote title 1](#keynote1)
-* **Keynote 2**: [Keynote title 2](#keynote2)
-* **Keynote 3**: [Keynote title 3](#keynote3)
+* **Keynote 1**: [Sophie Scott](#keynote1)
+* **Keynote 2**: [Mark Dingemanse](#keynote2)
 
 
-## [Keynote Person](https://keynote.com)
+## [Sophie Scott](https://www.ucl.ac.uk/brain-sciences/sophie-scott)
 
-<img src="../assets/person.png" width="150" alt="Photo of Keynote 1" />
+<img src="../assets/scott.jpg" width="150" alt="Photo of Sophie Scott" />
 
-**Title:** Keynote Title 1
+**Title:** TBC
 
-**Abstract:** Keynote Abstract 1
+**Abstract:** TBC
 
-## [Keynote Person](https://keynote.com)
+## [Mark Dingemanse](https://www.ru.nl/en/people/dingemanse-m)
 
-<img src="../assets/person.png" width="150" alt="Photo of Keynote 2" />
+<img src="../assets/dingemanse.png" width="150" alt="Photo of Mark Dingemanse" />
 
-**Title:** Keynote Title 2
+**Title:** TBC
 
-**Abstract:** Keynote Abstract 2
-
-## [Keynote Person](https://keynote.com)
-
-<img src="../assets/person.png" width="150" alt="Photo of Keynote 3" />
-
-**Title:** Keynote Title 3
-
-**Abstract:** Keynote Abstract 3
+**Abstract:** TBC
 
 
 
