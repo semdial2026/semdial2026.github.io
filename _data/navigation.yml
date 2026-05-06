@@ -5,8 +5,6 @@ main:
     url: /registration/
   - title: "Venue"
     url: /vta/
-  - title: "Keynotes"
-    url: /keynotes/
   - title: "Call for Papers"
     url: /cfp/
   - title: "Contact"
