@@ -13,8 +13,8 @@ toc: true
 ## Registration
 
 The registration for Semdial 2026 is now open! 
-Please, use this form to register. 
-Registration is now closed.
+[Please, use this form to register]([url]([url](https://store.lboro.ac.uk/conferences-and-events/communication-and-media/upcoming-events/semdial-2026-luffdial))). 
+
 
 To ensure your paper is presented in the main Semdial sessions, at least one author must complete the registration.
 
@@ -23,17 +23,17 @@ If you have any questions regarding, please, contact us via e-mail: <semdial2026
 
 ### Pricing
 
-The base conference fee (incl. taxes) is **175€**.
+The base conference fee (incl. taxes) is **£150**.
 
-Additionally, we ask you to pay for the conference dinner together with the conference fee. The conference dinner will happen at [Place3](https://lboro.ac.uk), a restaurant in Loughborough. The dinner features an appetiser, a main dish and a dessert. It also includes unlimited water for the evening and one glass of beer/wine/lemonade per person. 
+Additionally, we ask you to pay £45 for the conference dinner together with the conference fee. The conference dinner will happen at [Burleigh Court](https://www.imagovenues.co.uk/venues/burleigh-court/), a restaurant in the hotel on the Loughborough campus. The dinner features an appetiser, a main dish and a dessert. It also includes unlimited water for the evening and one glass of beer/wine/fizzy drink per person. Vegan and vegetarian options will be avbailable.
 
 <!--For the main dish, there are two **vegetarian** _(vegetable tikka masala with rice or mushroom ravioli)_ and one **vegan** option _(Indonesian-style wok vegetables with rice)_. Additionally, there are three **meat** options: _grilled-chicken tikka masala with rice, mushroom ravioli with braised Black Angus beef or braised Black Angus beef with potato-swede gratin_. The meat options are 6€ more expensive than the vegetarian/vegan ones. In the registration, we ask you to **commit to one particular price category**, you may, however, make a specific choice for the main dish within this price category on-site.
 
 This amounts to the final fee of **242€** (incl. taxes) for the option with the vegetarian/vegan dinner, and **248€** (incl. taxes) for the option with the non-vegetarian dinner.
 -->
-
-### Payment procedure
 <!--
+### Payment procedure
+
 Once you have submitted your registration form, you will receive an invoice from us with further instructions for payment, sent to the e-mail address you will have given in the registration form. The payment is only possible via **bank transfer**, however, we can cover the transfer fees for attendees who reside in countries outside of SEPA. In order to match the payments to attendees, there is a personalised intended purpose of transfer for everyone that includes the invoice number, therefore, we do not provide generalised payment information here.
 -->
 
