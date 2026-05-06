@@ -1,6 +1,8 @@
 main:
   - title: "Organization"
     url: /organization/
+  - title: "Register"
+    url: /register/
   - title: "Venue"
     url: /vta/
   - title: "Call for Papers"
