@@ -11,8 +11,8 @@ toc: false
 ---
 
 
-* **Keynote 1**: [Sophie Scott](#keynote1)
-* **Keynote 2**: [Mark Dingemanse](#keynote2)
+* **Keynote Title TBC**: [Sophie Scott](#keynote1)
+* **Keynote Title TBC**: [Mark Dingemanse](#keynote2)
 
 
 ## [Sophie Scott](https://www.ucl.ac.uk/brain-sciences/sophie-scott)
