@@ -14,6 +14,10 @@ header:
 
 Semdial 2026 – LuffDial, the 30th [Workshop on the Semantics and Pragmatics of Dialogue](https://www.semdial.org) will take place in Loughborough, UK from September 3–4, 2026 at [Loughborough University](https://www.lboro.ac.uk/).
 
+## Keynotes
+
+Our two keynote presentations will be delivered by [Mark Dingemanse](https://ihub.ru.nl/people/2024-04-04-mark-dingemanse/) and [Sophie Scott](https://www.ucl.ac.uk/brain-sciences/sophie-scott).
+
 ## LuffDial 
 
 Loughborough University is a hub for interactional research on dialogue, pragmatics, and language-in-use. LuffDial will be hosted by the [Discourse And Rhetoric Group](https://darg.lboro.ac.uk/) (DARG), founded in 1987 to promote interdisciplinary research in discourse analysis, applied conversation analysis, and discursive psychology. While there is no theme for Semdial 2026 - LuffDial, work on conversation and the interactional side of pragmatics and dialogue will be enthusiastically received by the Loughborough contingent.
