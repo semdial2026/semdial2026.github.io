@@ -16,7 +16,7 @@ Semdial 2026 – LuffDial, the 30th [Workshop on the Semantics and Pragmatics of
 
 ## Keynotes
 
-Our two keynote presentations will be delivered by [Mark Dingemanse](https://ihub.ru.nl/people/2024-04-04-mark-dingemanse/) and [Sophie Scott](https://www.ucl.ac.uk/brain-sciences/sophie-scott).
+Keynote presentations will be delivered by [Mark Dingemanse](https://ihub.ru.nl/people/2024-04-04-mark-dingemanse/) and [Sophie Scott](https://www.ucl.ac.uk/brain-sciences/sophie-scott).
 
 ## LuffDial 
 
