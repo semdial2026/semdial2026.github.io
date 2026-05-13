@@ -25,7 +25,7 @@ toc: false
 
 ## [Mark Dingemanse](https://www.ru.nl/en/people/dingemanse-m)
 
-<img src="../assets/dingemanse.png" width="150" alt="Photo of Mark Dingemanse" />
+<img src="../assets/dingemanse.jpg" width="150" alt="Photo of Mark Dingemanse" />
 
 **Title:** TBC
 
