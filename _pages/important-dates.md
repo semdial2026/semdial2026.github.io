@@ -18,7 +18,7 @@ layout: single
 
 |                             |                     | 
 | --------------------------- | ------------------- |
-| Long Paper Deadline         | June 17, 2026    |
+| Long Paper Deadline         | June 26, 2026    |
 | Reviews completed           | July 9, 2026   |
 | Notification                | July 16, 2026    |
 | Short Paper (Poster) Deadline | July 17, 2026 |
