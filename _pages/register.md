@@ -13,7 +13,7 @@ toc: true
 ## Registration
 
 The registration for Semdial 2026 is now open! 
-[Please, use this form to register]([url]([url](https://store.lboro.ac.uk/conferences-and-events/communication-and-media/upcoming-events/semdial-2026-luffdial))). 
+[Please, use this form to register](https://store.lboro.ac.uk/conferences-and-events/communication-and-media/upcoming-events/semdial-2026-luffdial). 
 
 
 To ensure your paper is presented in the main Semdial sessions, at least one author must complete the registration.
