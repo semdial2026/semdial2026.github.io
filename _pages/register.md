@@ -40,4 +40,4 @@ Once you have submitted your registration form, you will receive an invoice from
 ## Information for Presenters
 
 - Oral presentations: Plan your oral presentations for 20 minutes (plus 10 minutes discussion), you can either present from your own device or bring an online presentation (short link) or a PDF file on a thumb drive.
-- Posters: Bring a printed poster up to [ISO A0](https://en.wikipedia.org/wiki/ISO_216) in paper size (841 × 1189 mm; portrait or landscape orientation is acceptable).
+- Posters: Bring a printed poster up to [ISO A0](https://en.wikipedia.org/wiki/ISO_216) in paper size (841 × 1189 mm; portrait only please).
