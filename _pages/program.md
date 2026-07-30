@@ -11,7 +11,7 @@ toc: true
 ---
 
 
-## Programme at a Glance (NB: session themes are still very much provisional!)
+## Programme Outline (NB: session themes are still very much provisional!)
 
 | Time        | Topic |
 | ----------- | ----- |
