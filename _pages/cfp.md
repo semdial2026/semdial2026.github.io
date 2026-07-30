@@ -65,6 +65,17 @@ Submissions should meet the following requirements:
 
 **Submission**: Please submit your paper via [EasyChair](https://easychair.org/conferences/?conf=semdial2026)
 
+## Final Camera Ready Versions
+
+Authors of accepted papers or posters should submit a final camera-ready version for publication in the SemDial proceedings by 6th August. At least one author per paper/abstract must be registered by that date. Details on how to register can be found in the registration section.
+
+To prepare the camera-ready version authors must use the same formatting guidelines as for original submissions: please make sure you use these LaTeX style files or Microsoft Word templates. We have also slightly increased the page limit to allow authors to adequately address reviewer comments: full papers can be up to 10 pages including references; abstracts can be up to 3 pages including references. Please upload the final version via the Easychair submission site.
+
+
+Presentation Format and Proceedings
+
+Accepted full papers will be featured as 20-minute oral presentations at the workshop; accepted posters will be featured during the poster session. Both types of contributions will be published in the SemDial 2026 (LuffDial) proceedings, unless we hear otherwise from the authors.
+
 
 ## Important Dates
 
