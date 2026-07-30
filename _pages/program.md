@@ -18,7 +18,7 @@ toc: true
 | **Wednesday, September 2, 2026** | |
 | 08:00–09:00 | Registration |
 | 09:00–09:15 | Welcome |
-| 09:15–10:15 | Keynote: [Keynote 1](../keynotes/#keynote-1) |
+| 09:15–10:15 | Keynote 1: [Mark Dingemanse](../keynotes/#keynote-1) |
 | 10:15–10:30 | Coffee Break |
 | 10:30–12:30 | [Session 1: Studies – Natural Dialogue](#session-1-studies--natural-dialogue) |
 | 12:30–14:00 | Lunch Break: [EHB](https://www.lboro.ac.uk) |
@@ -34,7 +34,7 @@ toc: true
 | 12:15–14:00 | Lunch Break: [EHB](https://maps.lboro.ac.uk/?l=edward-herbert-building-ehb) & Business Meeting|
 | 14:00–16:00 | [Session 5: Studies – Mediated Dialogue](#session-5-studies--mediated-dialogue) | 
 | 16:00–16:15 | Coffee Break |
-| 16:15–17:30 | Keynote: [Person 2](../keynotes/#person-2) |
+| 16:15–17:30 | Keynote 2: [Sophie Scott](../keynotes/#person-2) |
 | 17:30 | Closing |
 
 <!--
