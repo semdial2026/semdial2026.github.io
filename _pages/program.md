@@ -11,39 +11,31 @@ toc: true
 ---
 
 
-## Programme at a Glance
+## Programme at a Glance (NB: session themes are still very much provisional!)
 
 | Time        | Topic |
 | ----------- | ----- |
 | **Wednesday, September 2, 2026** | |
 | 08:00–09:00 | Registration |
 | 09:00–09:15 | Welcome |
-| 09:15–10:30 | Keynote: [Keynote 1](../keynotes/#keynote-1) |
-| 10:30–10:50 | Coffee Break |
-| 10:50–12:20 | [Session 1: Studies – Natural Dialogue](#session-1-studies--natural-dialogue) |
-| 12:20–13:40 | Lunch Break: [EHB](https://www.lboro.ac.uk) |
-| 13:40–15:40 | [Session 2: Grounding and Repair](#session-2-grounding-and-repair) |
-| 15:40–16:00 | Coffee Break |
-| 16:00–17:30 | [Poster Session 1](#poster-session-1-wednesday-1600) |
-| 17:30–18:30 | Welcome Reception |
-| 19:30–      | Evening Suggestions: [Place 1](https://lboro.ac.uk) or [Place 2](https://lboro.ac.uk) |
+| 09:15–10:15 | Keynote: [Keynote 1](../keynotes/#keynote-1) |
+| 10:15–10:30 | Coffee Break |
+| 10:30–12:30 | [Session 1: Studies – Natural Dialogue](#session-1-studies--natural-dialogue) |
+| 12:30–14:00 | Lunch Break: [EHB](https://www.lboro.ac.uk) |
+| 14:00–15:30 | Poster session & Coffee Break |
+| 15:30–17:30 | [Session 2: Grounding and Repair](#session-2-grounding-and-repair) |
+| 1800 | Conference Dinner |
+
 | **Thursday, September 3, 2026** | |
-| 08:30–09:00 | Registration |
-| 09:00–10:30 | [Session 3: Language Models and Dialogue Systems](#session-3-language-models-and-dialogue-systems) |
-| 10:30–11:00 | Coffee Break |
-| 11:00–12:30 | [Session 4: Turn-Taking](#session-4-turn-taking) |
-| 12:30–14:00 | Lunch Break: [EHB](https://maps.lboro.ac.uk/?l=edward-herbert-building-ehb) |
-| 13:30–14:00 | SemDial Business Meeting |
-| 14:00–15:30 | [Poster Session 2](#poster-session-2-thursday-1400) |
-| 15:30–16:00 | Coffee Break |
-| 16:00–17:15 | Keynote: [Person 2](../keynotes/#person-2) |
-| 18:30–      | Conference Dinner: [Place 2](https://lboro.ac.uk/) |
-| **Friday, September 5, 2025** | |
-| 08:30–09:00 | Registration |
-| 09:00–11:00 | [Session 5: Studies – Mediated Dialogue](#session-5-studies--mediated-dialogue) | 
-| 11:00–11:30 | Coffee Break| 
-| 11:30–12:45 | Keynote: [Person 3](../keynotes/#person-3) | 
-| 12:45–13:00 | Closing |
+| 09:00–09:30 | Registration |
+| 09:30–10:30 | [Session 3: Language Models and Dialogue Systems](#session-3-language-models-and-dialogue-systems) |
+| 10:30–10:45 | Coffee Break |
+| 10:45–12:15 | [Session 4: Turn-Taking](#session-4-turn-taking) |
+| 12:15–14:00 | Lunch Break: [EHB](https://maps.lboro.ac.uk/?l=edward-herbert-building-ehb) & Business Meeting|
+| 14:00–16:00 | [Session 5: Studies – Mediated Dialogue](#session-5-studies--mediated-dialogue) | 
+| 16:00–16:15 | Coffee Break |
+| 16:15–17:30 | Keynote: [Person 2](../keynotes/#person-2) |
+| 17:30 | Closing |
 
 <!--
 ## Programme Booklet and Proceedings
@@ -55,12 +47,10 @@ toc: true
 
 ## Keynotes
 
-* Person 1: 
-  [Title](https://www.semdial.org/)
-* Person 2: 
-  [Title 2](https://www.semdial.org/)
-* Person 3: 
-  [Title 3](https://www.semdial.org/anthology/papers/Z/Z25/Z25-2203/)
+* Mark Dingemanse: 
+  [Title TBC](https://www.semdial.org/)
+* Sophie Scott: 
+  [Title TBC](https://www.semdial.org/)
   <!--  [Title 3](https://www.semdial.org/anthology/papers/Z/Z25/Z25-2203/)-->
 
 
@@ -118,7 +108,7 @@ toc: true
   (Taro Tsuda, Sanae Yamashita, Koji Inoue, Tatsuya Kawahara and Ryuichiro Higashinaka)
 -->
 
-## Poster Session 1 (Wednesday 16:00)
+## Poster Session  
 <!--
 * [Pragmatic reasoning for irony detection with large language models in English and Norwegian](https://www.semdial.org/anthology/papers/Z/Z25/Z25-4421/) 
   (Margareta Berg, Ildikó Pilán, Ingrid Lossius Falkum and Pierre Lison)
@@ -146,24 +136,3 @@ toc: true
   (Valerio Farriciello and Frank Förster)
 -->
 
-## Poster Session 2 (Thursday 14:00)
-<!--
-* [Across the board: Human-human game learning dialogues](https://www.semdial.org/anthology/papers/Z/Z25/Z25-4431/) 
-  (Mattias Appelgren, Erik Lagerstedt, Christine Howes and Asad B. Sayeed)
-* [The dual nature as a local context to explore verbal behaviour in game explanations](https://www.semdial.org/anthology/papers/Z/Z25/Z25-4432/) 
-  (Josephine B. Fisher and Lutz Terfloth)
-* [Towards a discourse-structure based response classification for interviews](https://www.semdial.org/anthology/papers/Z/Z25/Z25-4433/) 
-  (René Nicolas and Arndt Riester)
-* [Contextual interpretation in human-robot dialogue](https://www.semdial.org/anthology/papers/Z/Z25/Z25-4434/) 
-  (Svetlana Stoyanchev, Youmna Farag, Simon Keizer, Mohan Li and Rama Doddipatla)
-* [Mapping the landscape of dialogue research: A meta-analysis of ACL Anthology 2024](https://www.semdial.org/anthology/papers/Z/Z25/Z25-4435/) 
-  (Amandine Decker, Maxime Amblard and Ellen Breitholtz)
-* [Evaluating prosodic variation in English and Icelandic synthesized speech](https://www.semdial.org/anthology/papers/Z/Z25/Z25-4436/) 
-  (Caitlin Laura Richter, Naizeth Núñez Macías, Stefán Ólafsson, Jon Gudnason and Hannes Högni Vilhjálmsson)
-* [Conceptual pact models of reference in building games with dialogue: Scaling up from Pentomino Puzzles to the challenge of Minecraft](https://www.semdial.org/anthology/papers/Z/Z25/Z25-4437/) 
-  (Julian Hough, Chris Madge, Matthew Purver and Massimo Poesio)
-* MLLMs construction company – Investigating multimodal LLMs' communicative skills in a collaborative building task [non-archival]
-  (Marika Sarzotti, Giovanni Duca, Chris Madge, Raffaella Bernardi and Massimo Poesio)
-* [Learning to refer: How scene complexity affects emergent communication in neural agents](https://www.semdial.org/anthology/papers/Z/Z25/Z25-4438/) 
-  (Dominik Künkele and Simon Dobnik)
--->
