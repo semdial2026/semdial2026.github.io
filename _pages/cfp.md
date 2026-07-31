@@ -69,7 +69,7 @@ Submissions should meet the following requirements:
 
 Authors of accepted papers or posters should submit a final camera-ready version for publication in the SemDial proceedings by 6th August. At least one author per paper/abstract must be registered by that date. Details on how to register can be found in the registration section.
 
-To prepare the camera-ready version authors must use the same formatting guidelines as for original submissions: please make sure you use these LaTeX style files or Microsoft Word templates. We have also slightly increased the page limit to allow authors to adequately address reviewer comments: full papers can be up to 10 pages including references; abstracts can be up to 3 pages including references. Please upload the final version via the Easychair submission site.
+To prepare the camera-ready version authors must use the same formatting guidelines as for original submissions: please make sure you use these LaTeX style files or Microsoft Word templates. We have also slightly increased the page limit to allow authors to adequately address reviewer comments: full papers can be up to 10 pages excluding references; abstracts can be up to 3 pages excluding references. Please upload the final version via the Easychair submission site.
 
 NB: Ethical considerations and limitations sections do not count towards the page limit.
 
