@@ -15,7 +15,7 @@ toc: true
 
 | Time        | Topic |
 | ----------- | ----- |
-| **Wednesday, September 3, 2026** | |
+| **Thursday, September 3, 2026** | |
 | 08:00–09:00 | Registration |
 | 09:00–09:15 | Welcome |
 | 09:15–10:15 | Keynote 1: [Mark Dingemanse](../keynotes/#keynote-1) |
@@ -26,7 +26,7 @@ toc: true
 | 15:30–17:30 | [Session 2: Grounding and Repair](#session-2-grounding-and-repair) |
 | 1800 | Conference Dinner |
 
-| **Thursday, September 4, 2026** | |
+| **Friday, September 4, 2026** | |
 | 09:00–09:30 | Registration |
 | 09:30–10:30 | [Session 3: Language Models and Dialogue Systems](#session-3-language-models-and-dialogue-systems) |
 | 10:30–10:45 | Coffee Break |
