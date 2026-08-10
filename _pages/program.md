@@ -13,29 +13,44 @@ toc: true
 
 ## Programme Outline (NB: session themes are still very much provisional!)
 
-| Time        | Topic |
-| ----------- | ----- |
-| **Thursday, September 3, 2026** | |
-| 08:00–09:00 | Registration |
-| 09:00–09:15 | Welcome |
-| 09:15–10:15 | Keynote 1: [Mark Dingemanse](../keynotes/#keynote-1) |
-| 10:15–10:30 | Coffee Break |
-| 10:30–12:30 | [Session 1: Studies – Natural Dialogue](#session-1-studies--natural-dialogue) |
-| 12:30–14:00 | Lunch Break: [EHB](https://www.lboro.ac.uk) |
-| 14:00–15:30 | Poster session & Coffee Break |
-| 15:30–17:30 | [Session 2: Grounding and Repair](#session-2-grounding-and-repair) |
-| 1800 | Conference Dinner |
+# Conference Programme
 
-| **Friday, September 4, 2026** | |
-| 09:00–09:30 | Registration |
-| 09:30–10:30 | [Session 3: Language Models and Dialogue Systems](#session-3-language-models-and-dialogue-systems) |
-| 10:30–10:45 | Coffee Break |
-| 10:45–12:15 | [Session 4: Turn-Taking](#session-4-turn-taking) |
-| 12:15–14:00 | Lunch Break: [EHB](https://maps.lboro.ac.uk/?l=edward-herbert-building-ehb) & Business Meeting|
-| 14:00–16:00 | [Session 5: Studies – Mediated Dialogue](#session-5-studies--mediated-dialogue) | 
-| 16:00–16:15 | Coffee Break |
-| 16:15–17:30 | Keynote 2: [Sophie Scott](../keynotes/#person-2) |
-| 17:30 | Closing |
+## Day 1 — 3 September
+
+| **Slot** | **Topic** | **Time** | **Paper** |
+|---|---|---|---|
+| Registration | | 8:00-9:00 | |
+| Welcome | | 9:00-9:30 | |
+| Keynote 1 | Mark Dingemanse | 9:30-10:30 | |
+| **COFFEE BREAK** | | | |
+| Session 1 | Empirical Insights & Natural Dialog | 11:00-11:30 | 5 - *Perceptions of Interaction Styles: An Exploration Using Speaker-Typical Utterances* |
+| | | 11:30-12:00 | 8 - *Do we need to answer that question? Salience and Answerability of Potential Questions in Naturalistic Dialogue* |
+| | | 12:00-12:30 | 11 - *I think I’m confused?! A Taxonomy of Uncertainty Expression in Spatial Referential Games* |
+| **LUNCH** | | | |
+| Poster Session | | 14:00-16:00 | |
+| Session 2 | Grounding & Repair | 16:00-16:30 | 12 - *Community-Authored Usage Glosses as Use-Conditions for Internet Memes* |
+| | | 16:30-17:00 | 28 - *Covert Self-Repair in Written Dialogue* |
+| **CONFERENCE DINNER** | | | |
+
+## Day 2
+
+| **Slot** | **Topic** | **Time** | **Paper** |
+|---|---|---|---|
+| Registration | | 8:30-9:00 | |
+| Session 3 | Formal Approaches | 9:00-9:30 | 17 - *Intensified Response Particles and Polarity Opposition* |
+| | | 9:30-10:00 | 29 - *Pragmatic Reasoning in Reference Games Using Rational Speech Act Theory - A Computational Study Using the Game Codenames* |
+| | | 10:00-10:30 | 34 - *The Lady Doth Protest Too Much! Informativity Expectations Affect Judgments of Argument Strength* |
+| **COFFEE BREAK** | | | |
+| Session 4 | LLMs & Dialogsystems | 11:00-11:30 | 6 - *Real Users, Simulated Struggles: A Corpus-Based Expert and LIWC Evaluation of LLM-Generated Responses for Behavior Change Conversations* |
+| | | 11:30-12:00 | 7 - *Beyond Stop-or-Continue: Repair Action Labels for Speech Overlap in Multi-Party Dialogue Systems* |
+| | | 12:30-13:00 | 14 - *"They Really Clicked": How do Multimodal LLMs Judge Rapport Between People?* |
+| **LUNCH & BUSINESS MEETING** | | | |
+| Session 5 | Multimodality | 14:30-15:00 | 18 - *When are speakers committed to their gestures? Insights from deceptive communication* |
+| | | 15:00-15:30 | 30 - *When words don’t come easy – How speakers cope with communicatively challenging situations using verbal creativity and co-speech gesture* |
+| | | 15:30-16:00 | 19 - *Investigating contrastive inference generation across speech and gesture* |
+| **COFFEE BREAK** | | | |
+| Keynote 2 | Sophie Scott - *What's the point in studying laughter?* | 16:30-17:00 | |
+| Closing | | 17:30 | |
 
 <!--
 ## Programme Booklet and Proceedings
@@ -50,7 +65,7 @@ toc: true
 * Mark Dingemanse: 
   [Title TBC](https://www.semdial.org/)
 * Sophie Scott: 
-  [Title TBC](https://www.semdial.org/)
+  *What's the point in studying laughter?* (https://www.semdial.org/)
   <!--  [Title 3](https://www.semdial.org/anthology/papers/Z/Z25/Z25-2203/)-->
 
 
