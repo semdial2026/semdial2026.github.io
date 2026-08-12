@@ -67,9 +67,3 @@ toc: true
 * Sophie Scott: 
   *What's the point in studying laughter?* (https://www.semdial.org/)
 
-
-
-* [Integrating LLMs into the DIARC cognitive architecture to resolve past temporal references](https://www.semdial.org/anthology/papers/Z/Z25/Z25-4430/) 
-  (Valerio Farriciello and Frank Förster)
--->
-
