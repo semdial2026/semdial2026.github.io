@@ -66,7 +66,7 @@ toc: true
   [Title TBC](https://www.semdial.org/)
 * Sophie Scott: 
   *What's the point in studying laughter?* (https://www.semdial.org/)
-  <!--  [Title 3](https://www.semdial.org/anthology/papers/Z/Z25/Z25-2203/)-->
+
 
 
 * [Integrating LLMs into the DIARC cognitive architecture to resolve past temporal references](https://www.semdial.org/anthology/papers/Z/Z25/Z25-4430/) 
