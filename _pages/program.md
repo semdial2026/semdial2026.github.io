@@ -21,7 +21,7 @@ toc: true
 |---|---|---|---|
 | Registration | | 8:00-9:00 | |
 | Welcome | Arrival | 9:00-9:30 | |
-| Keynote 1 | Mark Dingemanse - Title TBA | 9:30-10:30 | |
+| Keynote 1 | Mark Dingemanse - Interactional foundations of large language models | 9:30-10:30 | |
 | **COFFEE BREAK** | | | |
 | Session 1 | Empirical Insights & Natural Dialog | 11:00-11:30 | 5 - *Perceptions of Interaction Styles: An Exploration Using Speaker-Typical Utterances* |
 | - | - | 11:30-12:00 | 8 - *Do we need to answer that question? Salience and Answerability of Potential Questions in Naturalistic Dialogue* |
