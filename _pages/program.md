@@ -32,7 +32,7 @@ toc: true
 | - | - | 16:30-17:00 | 28 - *Covert Self-Repair in Written Dialogue* |
 | **CONFERENCE DINNER** | | | |
 
-## Day 2
+## Day 2 - 4th September
 
 | **Slot** | **Topic** | **Time** | **Paper** |
 |---|---|---|---|
