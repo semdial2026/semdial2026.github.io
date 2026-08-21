@@ -26,7 +26,7 @@ toc: true
 | Session 1 | Empirical Insights & Natural Dialog | 11:00-11:30 | 5 - *Perceptions of Interaction Styles: An Exploration Using Speaker-Typical Utterances* |
 | - | - | 11:30-12:00 | 8 - *Do we need to answer that question? Salience and Answerability of Potential Questions in Naturalistic Dialogue* |
 | - | - | 12:00-12:30 | 11 - *I think I’m confused?! A Taxonomy of Uncertainty Expression in Spatial Referential Games* |
-| **LUNCH** | | | |
+| **LUNCH** | | | Group Photo in front of [Lynn Chadwick's Watchers](https://www.lboro.ac.uk/arts/arts-collection/sculpture-trail/#:~:text=Lynn%20Chadwick%20%2D%20The%20Watchers): 13:40 |
 | Poster Session | Various posters on the Semantics of Dialogue | 14:00-16:00 | |
 | Session 2 | Grounding & Repair | 16:00-16:30 | 12 - *Community-Authored Usage Glosses as Use-Conditions for Internet Memes* |
 | - | - | 16:30-17:00 | 28 - *Covert Self-Repair in Written Dialogue* |
