@@ -46,7 +46,7 @@ We recommend Burleigh Court, which is on campus and quite comfortable - with a d
 </div>
 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2414.38612302499!2d-1.2423410233041843!3d52.7613092721253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4879e0de35667df3%3A0x64729247309b7a44!2sBurleigh%20Court%20Conference%20Centre%20and%20Hotel!5e0!3m2!1sen!2suk!4v1776894991324!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed?bbox=-1.2417742609977724%2C52.76068758729552%2C-1.236517131328583%2C52.76265314938008&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=19/52.761670/-1.239146">View Larger Map</a></small>
 
 There are several [other on-campus accommodation options available](https://www.lboro.ac.uk/services/accommodation/short-stay-accommodation/hotels/).
 
@@ -55,9 +55,9 @@ There are several [other on-campus accommodation options available](https://www.
 
 ## Conference dinner venue
 
-The conference dinner venue is TBC. <!-- [Place 3](https://lboro.ac.uk 'Link to website of place 3'). The address is...-->
+The conference dinner will be at [Burleigh Court](https://www.burleigh-court.co.uk/). <!-- [Place 3](https://lboro.ac.uk 'Link to website of place 3'). The address is...-->
 
-<!--<iframe width="600" height="400" src="https://www.openstreetmap.org/export/embed.html?bbox=8.525814414024355%2C52.01911569175116%2C8.53343188762665%2C52.0211954340539&amp;layer=mapnik&amp;marker=52.02015530002795%2C8.529621899999938" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=52.020155&amp;mlon=8.529622#map=19/52.020155/8.529622&amp;layers=N">View larger map</a></small>-->
+<iframe width="600" height="400" src="https://www.openstreetmap.org/export/embed.html?bbox=8.525814414024355%2C52.01911569175116%2C8.53343188762665%2C52.0211954340539&amp;layer=mapnik&amp;marker=52.02015530002795%2C8.529621899999938" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=52.020155&amp;mlon=8.529622#map=19/52.020155/8.529622&amp;layers=N">View larger map</a></small>
 
 
 ## What to do in Loughborough
