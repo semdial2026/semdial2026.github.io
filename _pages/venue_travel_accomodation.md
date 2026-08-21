@@ -55,10 +55,7 @@ There are several [other on-campus accommodation options available](https://www.
 
 ## Conference dinner venue
 
-The conference dinner will be at [Burleigh Court](https://www.burleigh-court.co.uk/). <!-- [Place 3](https://lboro.ac.uk 'Link to website of place 3'). The address is...-->
-
-<iframe width="600" height="400" src="https://www.openstreetmap.org/export/embed.html?bbox=8.525814414024355%2C52.01911569175116%2C8.53343188762665%2C52.0211954340539&amp;layer=mapnik&amp;marker=52.02015530002795%2C8.529621899999938" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=52.020155&amp;mlon=8.529622#map=19/52.020155/8.529622&amp;layers=N">View larger map</a></small>
-
+The conference dinner will be at [Burleigh Court](https://www.burleigh-court.co.uk/) - see above.
 
 ## What to do in Loughborough
 
