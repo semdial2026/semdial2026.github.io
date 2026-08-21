@@ -30,7 +30,7 @@ toc: true
 | Poster Session | Various posters on the Semantics of Dialogue | 14:00-16:00 | |
 | Session 2 | Grounding & Repair | 16:00-16:30 | 12 - *Community-Authored Usage Glosses as Use-Conditions for Internet Memes* |
 | - | - | 16:30-17:00 | 28 - *Covert Self-Repair in Written Dialogue* |
-| **CONFERENCE DINNER** | | | |
+| **CONFERENCE DINNER** | | | [Burleigh Court](https://www.burleigh-court.co.uk/) |
 
 ## Day 2 - 4th September
 
