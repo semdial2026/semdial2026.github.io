@@ -49,7 +49,7 @@ toc: true
 | - | - | 15:00-15:30 | 30 - *When words don’t come easy – How speakers cope with communicatively challenging situations using verbal creativity and co-speech gesture* |
 | - | - | 15:30-16:00 | 19 - *Investigating contrastive inference generation across speech and gesture* |
 | **COFFEE BREAK** | | | |
-| Keynote 2 | Sophie Scott - *What's the point in studying laughter?* | 16:30-17:00 | |
+| Keynote 2 | Sophie Scott - *What's the point in studying laughter?* | 16:30-17:30 | |
 | Closing | That's all folks! | 17:30 | |
 
 <!--
@@ -62,8 +62,8 @@ toc: true
 
 ## Keynotes
 
-* Mark Dingemanse: 
-  [Title TBC](https://www.semdial.org/)
-* Sophie Scott: 
-  *What's the point in studying laughter?* (https://www.semdial.org/)
+* [Mark Dingemanse](https://markdingemanse.net/): 
+  *Interactional foundations of large language models*
+* [Sophie Scott](https://www.ucl.ac.uk/brain-sciences/sophie-scott): 
+  *What's the point in studying laughter?*
 
