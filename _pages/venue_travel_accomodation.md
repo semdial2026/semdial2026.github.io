@@ -61,7 +61,6 @@ At the [White Hart](https://benpimlico.com/whitehart/) pub, 27 Church Gate, Loug
 
 The conference dinner will be at [Burleigh Court](https://www.burleigh-court.co.uk/) 
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed?bbox=-1.2417742609977724%2C52.76068758729552%2C-1.236517131328583%2C52.76265314938008&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=19/52.761670/-1.239146">View Larger Map</a></small>
 
 ## What to do in Loughborough
 
