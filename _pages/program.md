@@ -11,7 +11,7 @@ toc: true
 ---
 
 
-## Programme Outline (NB: session themes are still very much provisional!)
+## Programme Outline 
 
 # Conference Programme
 
