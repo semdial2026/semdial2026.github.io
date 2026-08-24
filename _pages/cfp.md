@@ -77,6 +77,25 @@ NB: Ethical considerations and limitations sections do not count towards the pag
 
 Accepted full papers will be featured as 20-minute oral presentations at the workshop; accepted posters will be featured during the poster session. Both types of contributions will be published in the SemDial 2026 (LuffDial) proceedings, unless we hear otherwise from the authors.
 
+### Poster format
+
+A0, portrait format only please.
+
+You may find it useful to print a poster locally - and collect it from our print shop rather than travelling with your poster.
+
+Please remember: we only have space for portrait format posters.
+
+The print shop needs a 3-day lead time for standard poster printing, so Monday 1st September will be the latest you can order your poster.
+
+The 'standard poster' print request form is here:
+[https://community.onlineshop.lboro.ac.uk/product/2025-hybrid-community-standard-poster/6569
+](https://community.onlineshop.lboro.ac.uk/product/2025-hybrid-community-standard-poster/6569
+)
+There are also other (more expensive) options available - though they may have longer lead times:
+[https://community.onlineshop.lboro.ac.uk/category/2024-posters/832
+](https://community.onlineshop.lboro.ac.uk/category/2024-posters/832
+)
+A standard portrait A0 poster costs £24 to print at Loughborough. If you are a student or will find it hard to pay for this extra cost, we can offer to print yours for free - but you have to send us your A0 (or smaller) poster by noon on Wednesday 26th August.
 
 ## Important Dates
 
