@@ -23,13 +23,13 @@ toc: true
 | Welcome | Arrival | 9:00-9:30 | |
 | Keynote 1 | Mark Dingemanse - Interactional foundations of large language models | 9:30-10:30 | |
 | **COFFEE BREAK** | | | |
-| Session 1 | Empirical Insights & Natural Dialog | 11:00-11:30 | 5 - *Perceptions of Interaction Styles: An Exploration Using Speaker-Typical Utterances* |
-| - | - | 11:30-12:00 | 8 - *Do we need to answer that question? Salience and Answerability of Potential Questions in Naturalistic Dialogue* |
-| - | - | 12:00-12:30 | 11 - *I think I’m confused?! A Taxonomy of Uncertainty Expression in Spatial Referential Games* |
+| Session 1 | Empirical Insights & Natural Dialog | 11:00-11:30 | *Perceptions of Interaction Styles: An Exploration Using Speaker-Typical Utterances* |
+| - | - | 11:30-12:00 | *Do we need to answer that question? Salience and Answerability of Potential Questions in Naturalistic Dialogue* |
+| - | - | 12:00-12:30 | *I think I’m confused?! A Taxonomy of Uncertainty Expression in Spatial Referential Games* |
 | **LUNCH** | | | Group Photo in front of [Lynn Chadwick's Watchers](https://www.lboro.ac.uk/arts/arts-collection/sculpture-trail/#:~:text=Lynn%20Chadwick%20%2D%20The%20Watchers): 13:40 |
 | Poster Session | Various posters on the Semantics of Dialogue | 14:00-16:00 | |
 | Session 2 | Grounding & Repair | 16:00-16:30 | 12 - *Community-Authored Usage Glosses as Use-Conditions for Internet Memes* |
-| - | - | 16:30-17:00 | 28 - *Covert Self-Repair in Written Dialogue* |
+| - | - | 16:30-17:00 | *Covert Self-Repair in Written Dialogue* |
 | **CONFERENCE DINNER** | | | [Burleigh Court](https://www.burleigh-court.co.uk/) |
 
 ## Day 2 - 4th September
@@ -37,17 +37,17 @@ toc: true
 | **Slot** | **Topic** | **Time** | **Paper** |
 |---|---|---|---|
 | Registration | | 8:30-9:00 | |
-| Session 3 | Formal Approaches | 9:00-9:30 | 17 - *Intensified Response Particles and Polarity Opposition* |
-| - | - | 9:30-10:00 | 29 - *Pragmatic Reasoning in Reference Games Using Rational Speech Act Theory - A Computational Study Using the Game Codenames* |
-| - | - | 10:00-10:30 | 34 - *The Lady Doth Protest Too Much! Informativity Expectations Affect Judgments of Argument Strength* |
+| Session 3 | Formal Approaches | 9:00-9:30 | *Intensified Response Particles and Polarity Opposition* |
+| - | - | 9:30-10:00 | *Pragmatic Reasoning in Reference Games Using Rational Speech Act Theory - A Computational Study Using the Game Codenames* |
+| - | - | 10:00-10:30 | *The Lady Doth Protest Too Much! Informativity Expectations Affect Judgments of Argument Strength* |
 | **COFFEE BREAK** | | | |
-| Session 4 | LLMs & Dialogsystems | 11:00-11:30 | 6 - *Real Users, Simulated Struggles: A Corpus-Based Expert and LIWC Evaluation of LLM-Generated Responses for Behavior Change Conversations* |
-| - | - | 11:30-12:00 | 7 - *Beyond Stop-or-Continue: Repair Action Labels for Speech Overlap in Multi-Party Dialogue Systems* |
-| - | - | 12:30-13:00 | 14 - *"They Really Clicked": How do Multimodal LLMs Judge Rapport Between People?* |
+| Session 4 | LLMs & Dialogsystems | 11:00-11:30 | *Real Users, Simulated Struggles: A Corpus-Based Expert and LIWC Evaluation of LLM-Generated Responses for Behavior Change Conversations* |
+| - | - | 12:00-12:30 | *Beyond Stop-or-Continue: Repair Action Labels for Speech Overlap in Multi-Party Dialogue Systems* |
+| - | - | 12:30-13:00 | *"They Really Clicked": How do Multimodal LLMs Judge Rapport Between People?* |
 | **LUNCH & BUSINESS MEETING** | | | |
 | Session 5 | Multimodality | 14:30-15:00 | 18 - *When are speakers committed to their gestures? Insights from deceptive communication* |
-| - | - | 15:00-15:30 | 30 - *When words don’t come easy – How speakers cope with communicatively challenging situations using verbal creativity and co-speech gesture* |
-| - | - | 15:30-16:00 | 19 - *Investigating contrastive inference generation across speech and gesture* |
+| - | - | 15:00-15:30 | *When words don’t come easy – How speakers cope with communicatively challenging situations using verbal creativity and co-speech gesture* |
+| - | - | 15:30-16:00 | *Investigating contrastive inference generation across speech and gesture* |
 | **COFFEE BREAK** | | | |
 | Keynote 2 | Sophie Scott - *What's the point in studying laughter?* | 16:30-17:30 | |
 | Closing | That's all folks! | 17:30 | |
@@ -66,4 +66,28 @@ toc: true
   *Interactional foundations of large language models*
 * [Sophie Scott](https://www.ucl.ac.uk/brain-sciences/sophie-scott): 
   *What's the point in studying laughter?*
+
+**Empirical Insights & Natural Dialog**
+* *Nigel Ward, Georgina Bugarini and Harm Lameris*, Perceptions of Interaction styles: An Exploration using Speaker-Typical Utterances
+* *Amandine Decker, Maxime Amblard and Ellen Breitholtz*, Do we need to answer that question? Salience and Answerability of Potential Questions in Naturalistic Dialogue
+* *Amelie Robrecht-Hilbig, Bita Bolouki and Simon Dobnik*, I think I’m confused?! A Taxonomy of Uncertainty Expression in Spatial Referential Games
+
+**Grounding & Repair**
+* *Victoria Sherratt and Nina Dethlefs*, Community-Authored Usage Glosses as Use-Conditions for Internet Memes
+* *Mai Hoang Dao, Catherine Lai and Peter Bell*, Covert Self-Repair in Written Dialogue
+
+**Formal Approaches**
+* *Lennart Fritzsche*, Intensified response particles and polarity opposition
+* *Florian Kankowski, Stefan Kopp and Amelie Robrecht-Hilbig*, Pragmatic Reasoning in Reference Games using Rational Speech Act Theory - A Computational Study Using the Game Codenames
+* *S.R. Pulapura, Hannah Rohde, Daniel Lassiter and Catherine Lai*, The lady doth protest too much! Informativity expectations affect judgments of argument strength
+
+**LLMs & Dialogsystems**
+* *Ben Chen and Nina Dethlefs*, Real Users, Simulated Struggles: A Corpus-Based Expert and LIWC Evaluation of LLM-Generated Responses for Behavior Change Conversations
+* *Kenta Yamamoto and Kazunori Komatani*, Beyond Stop-or-Continue: Repair Action Labels for Speech Overlap in Multi-Party Dialogue Systems
+* *Oussama Silem, Éric De la Clergerie and Justine Cassell*, "They Really Clicked": How do Multimodal LLMs Judge Rapport Between People?
+
+**Multimodality**
+* *Sebastian Walter and Jonas Hartke*, When are speakers committed to their gestures? Insights from deceptive communication
+* *Alon Fishman, Lisa Gottschalk, Stefan Kopp and Joana Cholin*, When words don’t come easy – How speakers cope with communicatively challenging situations using verbal creativity and co-speech gesture
+* *Sebastian Walter*, Investigating contrastive inference generation across speech and gesture
 
