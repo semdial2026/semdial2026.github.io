@@ -21,7 +21,7 @@ toc: true
 |---|---|---|---|
 | Registration | | 8:00-9:00 | |
 | Welcome | Arrival | 9:00-9:30 | |
-| Keynote 1 | Mark Dingemanse - Interactional foundations of large language models | 9:30-10:30 | |
+| Keynote 1: Mark Dingemanse |  | 9:30-10:30 |  *Interactional foundations of large language models*  |
 | **COFFEE BREAK** | | | |
 | Session 1 | Empirical Insights & Natural Dialog | 11:00-11:30 | *Perceptions of Interaction Styles: An Exploration Using Speaker-Typical Utterances* |
 | - | - | 11:30-12:00 | *Do we need to answer that question? Salience and Answerability of Potential Questions in Naturalistic Dialogue* |
@@ -49,7 +49,7 @@ toc: true
 | - | - | 15:00-15:30 | *When words don’t come easy – How speakers cope with communicatively challenging situations using verbal creativity and co-speech gesture* |
 | - | - | 15:30-16:00 | *Investigating contrastive inference generation across speech and gesture* |
 | **COFFEE BREAK** | | | |
-| Keynote 2 | Sophie Scott - *What's the point in studying laughter?* | 16:30-17:30 | |
+| Keynote 2: Sophie Scott |  | 16:30-17:30 | *What's the point in studying laughter?* |
 | Closing | That's all folks! | 17:30 | |
 
 <!--
