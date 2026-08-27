@@ -67,6 +67,8 @@ toc: true
 * [Sophie Scott](https://www.ucl.ac.uk/brain-sciences/sophie-scott): 
   *What's the point in studying laughter?*
 
+## Speakers and Talks
+
 **Empirical Insights & Natural Dialog**
 * *Nigel Ward, Georgina Bugarini and Harm Lameris*, Perceptions of Interaction styles: An Exploration using Speaker-Typical Utterances
 * *Amandine Decker, Maxime Amblard and Ellen Breitholtz*, Do we need to answer that question? Salience and Answerability of Potential Questions in Naturalistic Dialogue
