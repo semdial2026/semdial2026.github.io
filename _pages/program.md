@@ -45,12 +45,12 @@ toc: true
 | - | - | 11:30-12:00 | *Beyond Stop-or-Continue: Repair Action Labels for Speech Overlap in Multi-Party Dialogue Systems* |
 | - | - | 12:00-12:30 | *"They Really Clicked": How do Multimodal LLMs Judge Rapport Between People?* |
 | **LUNCH & BUSINESS MEETING** | | | |
-| Session 5 | Multimodality | 14:00-15:00 | 18 - *When are speakers committed to their gestures? Insights from deceptive communication* |
-| - | - | 15:00-15:30 | *When words don’t come easy – How speakers cope with communicatively challenging situations using verbal creativity and co-speech gesture* |
-| - | - | 15:30-16:00 | *Investigating contrastive inference generation across speech and gesture* |
+| Session 5 | Multimodality | 14:00-14:30 | 18 - *When are speakers committed to their gestures? Insights from deceptive communication* |
+| - | - | 14:30-15:00 | *When words don’t come easy – How speakers cope with communicatively challenging situations using verbal creativity and co-speech gesture* |
+| - | - | 15:00-15:30 | *Investigating contrastive inference generation across speech and gesture* |
 | **COFFEE BREAK** | | | |
-| Keynote 2: Sophie Scott |  | 16:30-17:30 | *What's the point in studying laughter?* |
-| Closing | That's all folks! | 17:30 | |
+| Keynote 2: Sophie Scott |  | 16:00-17:00 | *What's the point in studying laughter?* |
+| Closing | That's all folks! | 17:00 | |
 
 <!--
 ## Programme Booklet and Proceedings
