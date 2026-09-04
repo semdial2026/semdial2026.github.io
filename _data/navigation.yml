@@ -1,17 +1,15 @@
 main:
   - title: "Organization"
-    url: /organization/
+    url: "/organization/"
   - title: "Register"
-    url: /registration/
+    url: "/registration/"
   - title: "Venue"
-    url: /vta/
+    url: "/vta/"
   - title: "Program Outline"
-    url: /program/
+    url: "/program/"
   - title: "Call for Papers"
-    url: /cfp/
+    url: "/cfp/"
   - title: "Proceedings"
-    url: https://drive.google.com/file/d/1xetiyDgtUQhnshBMwGWicuFaKA4aeoGU/
+    url: "https://drive.google.com/file/d/1xetiyDgtUQhnshBMwGWicuFaKA4aeoGU/"
   - title: "Contact"
-    url: /contact/
-  
-  
+    url: "/contact/"
