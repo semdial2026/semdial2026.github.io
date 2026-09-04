@@ -22,8 +22,8 @@ Keynote presentations by [Mark Dingemanse](https://ihub.ru.nl/people/2024-04-04-
 
 Loughborough University is a hub for interactional research on dialogue, pragmatics, and language-in-use. LuffDial will be hosted by the [Discourse And Rhetoric Group](https://darg.lboro.ac.uk/) (DARG), founded in 1987 to promote interdisciplinary research in discourse analysis, applied conversation analysis, and discursive psychology. 
 
-![SemDial2026 in front of lynn Chadwick's The Watchers](assets/D6410-02.jpg){: style="max-width:100%; height:auto;"}
-*SemDial2026 in front of lynn Chadwick's The Watchers*
+[![SemDial2026 in front of lynn Chadwick's The Watchers](assets/D6410-02-sm.jpg)](assets/D6410-02.jpg)
+*SemDial2026 in front of Lynn Chadwick's The Watchers (Click for big version)*
 
 
 <!--**Programme Booklet:** Get the [SemDial 2026 – LuffDial Conference Programme Booklet](assets/semdial2026-conference-programme-mobile.pdf) (pdf)!
