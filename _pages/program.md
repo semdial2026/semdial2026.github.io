@@ -42,10 +42,10 @@ toc: true
 | - | - | 10:00-10:30 | *The Lady Doth Protest Too Much! Informativity Expectations Affect Judgments of Argument Strength* |
 | **COFFEE BREAK** | | | |
 | Session 4 | LLMs & Dialogsystems | 11:00-11:30 | *Real Users, Simulated Struggles: A Corpus-Based Expert and LIWC Evaluation of LLM-Generated Responses for Behavior Change Conversations* |
-| - | - | 12:00-12:30 | *Beyond Stop-or-Continue: Repair Action Labels for Speech Overlap in Multi-Party Dialogue Systems* |
-| - | - | 12:30-13:00 | *"They Really Clicked": How do Multimodal LLMs Judge Rapport Between People?* |
+| - | - | 11:30-12:00 | *Beyond Stop-or-Continue: Repair Action Labels for Speech Overlap in Multi-Party Dialogue Systems* |
+| - | - | 12:00-12:30 | *"They Really Clicked": How do Multimodal LLMs Judge Rapport Between People?* |
 | **LUNCH & BUSINESS MEETING** | | | |
-| Session 5 | Multimodality | 14:30-15:00 | 18 - *When are speakers committed to their gestures? Insights from deceptive communication* |
+| Session 5 | Multimodality | 14:00-15:00 | 18 - *When are speakers committed to their gestures? Insights from deceptive communication* |
 | - | - | 15:00-15:30 | *When words don’t come easy – How speakers cope with communicatively challenging situations using verbal creativity and co-speech gesture* |
 | - | - | 15:30-16:00 | *Investigating contrastive inference generation across speech and gesture* |
 | **COFFEE BREAK** | | | |
